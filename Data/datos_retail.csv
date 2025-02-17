@@ -1,0 +1,1001 @@
+ID_Cliente,Edad,Género,Fecha_Compra,Monto_Compra,Producto_Categoría,Método_Pago,Ubicación_Tienda,Promoción,Frecuencia_Compra
+1,56,Otro,2020-01-01,414.01,Hogar,Débito,Norte,No,Regular
+2,69,Otro,2020-01-02,185.32,Ropa,Tarjeta de Crédito,Norte,Sí,Regular
+3,46,Otro,2020-01-03,167.83,Electrónica,Tarjeta de Crédito,Centro,Sí,Frecuente
+4,32,Masculino,2020-01-04,488.96,Hogar,Efectivo,Norte,No,Frecuente
+5,60,Otro,2020-01-05,108.42,Ropa,Débito,Norte,Sí,Regular
+6,25,Masculino,2020-01-06,349.67,Alimentos,Efectivo,Centro,No,Ocasional
+7,38,Femenino,2020-01-07,412.51,Ropa,Efectivo,Norte,Sí,Regular
+8,56,Otro,2020-01-08,30.18,Ropa,Tarjeta de Crédito,Sur,No,Frecuente
+9,36,Masculino,2020-01-09,338.49,Alimentos,Débito,Sur,Sí,Regular
+10,40,Masculino,2020-01-10,476.26,Alimentos,Débito,Centro,Sí,Ocasional
+11,28,Otro,2020-01-11,70.87,Alimentos,Débito,Norte,No,Regular
+12,28,Femenino,2020-01-12,449.15,Electrónica,Tarjeta de Crédito,Sur,No,Frecuente
+13,41,Femenino,2020-01-13,301.44,Alimentos,Tarjeta de Crédito,Sur,No,Regular
+14,53,Femenino,2020-01-14,312.14,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+15,57,Masculino,2020-01-15,310.34,Alimentos,Tarjeta de Crédito,Norte,Sí,Frecuente
+16,41,Masculino,2020-01-16,156.43,Electrónica,Tarjeta de Crédito,Sur,Sí,Regular
+17,20,Masculino,2020-01-17,468.25,Ropa,Débito,Sur,Sí,Frecuente
+18,39,Masculino,2020-01-18,474.2,Hogar,Efectivo,Centro,No,Frecuente
+19,19,Femenino,2020-01-19,316.4,Ropa,Débito,Centro,Sí,Ocasional
+20,41,Otro,2020-01-20,393.88,Ropa,Efectivo,Sur,Sí,Ocasional
+21,61,Masculino,2020-01-21,310.01,Alimentos,Tarjeta de Crédito,Centro,No,Ocasional
+22,47,Masculino,2020-01-22,247.36,Electrónica,Efectivo,Sur,No,Ocasional
+23,55,Femenino,2020-01-23,333.8,Hogar,Débito,Sur,Sí,Frecuente
+24,19,Otro,2020-01-24,280.97,Alimentos,Débito,Centro,No,Regular
+25,38,Otro,2020-01-25,302.76,Alimentos,Efectivo,Centro,Sí,Frecuente
+26,50,Femenino,2020-01-26,394.08,Alimentos,Tarjeta de Crédito,Norte,Sí,Frecuente
+27,29,Femenino,2020-01-27,245.64,Ropa,Tarjeta de Crédito,Norte,No,Frecuente
+28,39,Otro,2020-01-28,29.97,Electrónica,Débito,Norte,Sí,Regular
+29,61,Masculino,2020-01-29,90.36,Electrónica,Efectivo,Sur,No,Ocasional
+30,42,Otro,2020-01-30,224.92,Hogar,Tarjeta de Crédito,Centro,No,Frecuente
+31,66,Femenino,2020-01-31,365.17,Electrónica,Tarjeta de Crédito,Sur,Sí,Frecuente
+32,44,Masculino,2020-02-01,300.71,Electrónica,Débito,Centro,Sí,Ocasional
+33,59,Masculino,2020-02-02,328.64,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+34,45,Femenino,2020-02-03,244.85,Alimentos,Efectivo,Norte,No,Regular
+35,33,Femenino,2020-02-04,311.71,Ropa,Débito,Norte,Sí,Frecuente
+36,32,Femenino,2020-02-05,171.22,Alimentos,Débito,Norte,No,Frecuente
+37,64,Otro,2020-02-06,240.39,Alimentos,Efectivo,Sur,No,Ocasional
+38,68,Otro,2020-02-07,374.7,Alimentos,Débito,Centro,Sí,Frecuente
+39,61,Masculino,2020-02-08,437.2,Alimentos,Tarjeta de Crédito,Centro,No,Frecuente
+40,69,Femenino,2020-02-09,222.49,Ropa,Tarjeta de Crédito,Norte,Sí,Regular
+41,20,Masculino,2020-02-10,31.39,Alimentos,Efectivo,Norte,Sí,Ocasional
+42,54,Masculino,2020-02-11,89.22,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+43,68,Masculino,2020-02-12,20.22,Hogar,Efectivo,Norte,Sí,Regular
+44,24,Masculino,2020-02-13,330.1,Hogar,Efectivo,Centro,Sí,Frecuente
+45,38,Femenino,2020-02-14,172.83,Hogar,Tarjeta de Crédito,Sur,Sí,Ocasional
+46,26,Masculino,2020-02-15,275.81,Alimentos,Efectivo,Sur,Sí,Ocasional
+47,56,Femenino,2020-02-16,251.71,Hogar,Tarjeta de Crédito,Sur,No,Frecuente
+48,35,Femenino,2020-02-17,49.95,Alimentos,Débito,Sur,Sí,Frecuente
+49,21,Otro,2020-02-18,207.6,Ropa,Débito,Norte,No,Ocasional
+50,42,Femenino,2020-02-19,118.07,Hogar,Efectivo,Norte,No,Frecuente
+51,31,Otro,2020-02-20,215.02,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+52,67,Femenino,2020-02-21,109.75,Hogar,Tarjeta de Crédito,Sur,Sí,Frecuente
+53,26,Femenino,2020-02-22,421.82,Hogar,Débito,Norte,No,Frecuente
+54,43,Femenino,2020-02-23,95.35,Alimentos,Débito,Norte,No,Regular
+55,19,Otro,2020-02-24,480.78,Hogar,Tarjeta de Crédito,Centro,Sí,Frecuente
+56,37,Otro,2020-02-25,213.79,Electrónica,Efectivo,Centro,Sí,Regular
+57,45,Masculino,2020-02-26,424.66,Alimentos,Débito,Norte,No,Frecuente
+58,64,Otro,2020-02-27,318.09,Alimentos,Efectivo,Centro,Sí,Ocasional
+59,24,Otro,2020-02-28,370.32,Ropa,Efectivo,Centro,Sí,Ocasional
+60,61,Otro,2020-02-29,386.18,Ropa,Débito,Norte,Sí,Frecuente
+61,25,Otro,2020-03-01,257.37,Hogar,Efectivo,Norte,Sí,Frecuente
+62,64,Masculino,2020-03-02,276.22,Ropa,Efectivo,Norte,No,Ocasional
+63,52,Otro,2020-03-03,261.86,Ropa,Tarjeta de Crédito,Norte,Sí,Frecuente
+64,31,Femenino,2020-03-04,298.15,Ropa,Efectivo,Sur,Sí,Regular
+65,34,Femenino,2020-03-05,24.4,Alimentos,Tarjeta de Crédito,Sur,Sí,Regular
+66,53,Otro,2020-03-06,203.8,Alimentos,Débito,Norte,No,Regular
+67,67,Otro,2020-03-07,307.03,Alimentos,Débito,Centro,No,Regular
+68,57,Femenino,2020-03-08,302.88,Ropa,Tarjeta de Crédito,Norte,Sí,Regular
+69,21,Femenino,2020-03-09,398.55,Alimentos,Débito,Norte,Sí,Frecuente
+70,19,Masculino,2020-03-10,330.95,Ropa,Efectivo,Centro,No,Frecuente
+71,23,Femenino,2020-03-11,496.15,Alimentos,Efectivo,Sur,Sí,Regular
+72,59,Femenino,2020-03-12,149.09,Alimentos,Efectivo,Norte,Sí,Frecuente
+73,21,Otro,2020-03-13,185.98,Electrónica,Débito,Norte,No,Frecuente
+74,46,Femenino,2020-03-14,198.09,Hogar,Efectivo,Sur,Sí,Regular
+75,35,Masculino,2020-03-15,238.25,Ropa,Débito,Sur,Sí,Frecuente
+76,43,Femenino,2020-03-16,419.64,Electrónica,Efectivo,Centro,No,Frecuente
+77,61,Otro,2020-03-17,125.54,Alimentos,Tarjeta de Crédito,Sur,No,Frecuente
+78,51,Otro,2020-03-18,390.24,Ropa,Débito,Sur,Sí,Regular
+79,27,Femenino,2020-03-19,208.6,Alimentos,Débito,Sur,No,Frecuente
+80,53,Otro,2020-03-20,304.91,Hogar,Efectivo,Centro,Sí,Ocasional
+81,31,Masculino,2020-03-21,319.94,Electrónica,Débito,Sur,Sí,Ocasional
+82,48,Masculino,2020-03-22,192.7,Hogar,Débito,Sur,Sí,Regular
+83,65,Femenino,2020-03-23,261.18,Electrónica,Tarjeta de Crédito,Centro,No,Ocasional
+84,32,Femenino,2020-03-24,212.39,Alimentos,Tarjeta de Crédito,Sur,No,Regular
+85,25,Femenino,2020-03-25,43.88,Hogar,Efectivo,Sur,Sí,Ocasional
+86,31,Otro,2020-03-26,224.21,Hogar,Tarjeta de Crédito,Centro,Sí,Ocasional
+87,40,Masculino,2020-03-27,57.72,Alimentos,Efectivo,Norte,No,Ocasional
+88,57,Masculino,2020-03-28,208.46,Hogar,Efectivo,Centro,No,Regular
+89,38,Otro,2020-03-29,300.53,Ropa,Efectivo,Sur,No,Regular
+90,33,Masculino,2020-03-30,293.91,Electrónica,Débito,Sur,Sí,Frecuente
+91,62,Femenino,2020-03-31,334.68,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+92,35,Femenino,2020-04-01,56.68,Electrónica,Efectivo,Centro,No,Ocasional
+93,64,Femenino,2020-04-02,329.54,Ropa,Tarjeta de Crédito,Sur,Sí,Ocasional
+94,41,Masculino,2020-04-03,162.95,Electrónica,Efectivo,Sur,Sí,Regular
+95,43,Femenino,2020-04-04,205.53,Alimentos,Tarjeta de Crédito,Centro,Sí,Regular
+96,42,Otro,2020-04-05,430.41,Hogar,Tarjeta de Crédito,Norte,No,Regular
+97,62,Otro,2020-04-06,14.42,Ropa,Efectivo,Norte,Sí,Frecuente
+98,58,Masculino,2020-04-07,298.32,Electrónica,Débito,Sur,Sí,Ocasional
+99,46,Otro,2020-04-08,303.37,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+100,32,Otro,2020-04-09,204.36,Hogar,Débito,Sur,Sí,Frecuente
+101,62,Masculino,2020-04-10,126.14,Hogar,Débito,Centro,No,Ocasional
+102,18,Femenino,2020-04-11,124.99,Ropa,Efectivo,Centro,Sí,Ocasional
+103,42,Femenino,2020-04-12,443.02,Ropa,Efectivo,Norte,No,Regular
+104,24,Femenino,2020-04-13,226.59,Ropa,Efectivo,Norte,No,Regular
+105,26,Masculino,2020-04-14,172.14,Alimentos,Tarjeta de Crédito,Centro,No,Frecuente
+106,41,Otro,2020-04-15,229.9,Alimentos,Efectivo,Sur,Sí,Regular
+107,18,Femenino,2020-04-16,338.0,Ropa,Efectivo,Norte,No,Regular
+108,61,Femenino,2020-04-17,81.42,Electrónica,Tarjeta de Crédito,Sur,Sí,Ocasional
+109,25,Masculino,2020-04-18,230.22,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+110,41,Femenino,2020-04-19,298.06,Hogar,Efectivo,Norte,Sí,Regular
+111,28,Masculino,2020-04-20,474.81,Alimentos,Efectivo,Sur,No,Ocasional
+112,68,Otro,2020-04-21,133.74,Hogar,Efectivo,Norte,Sí,Regular
+113,34,Masculino,2020-04-22,186.03,Electrónica,Efectivo,Norte,Sí,Ocasional
+114,25,Masculino,2020-04-23,195.89,Hogar,Débito,Sur,Sí,Ocasional
+115,52,Masculino,2020-04-24,306.71,Alimentos,Débito,Norte,No,Ocasional
+116,52,Masculino,2020-04-25,184.8,Alimentos,Efectivo,Norte,No,Ocasional
+117,50,Otro,2020-04-26,271.42,Electrónica,Débito,Norte,No,Regular
+118,22,Otro,2020-04-27,393.08,Electrónica,Tarjeta de Crédito,Sur,Sí,Frecuente
+119,59,Femenino,2020-04-28,355.64,Hogar,Débito,Centro,No,Ocasional
+120,56,Otro,2020-04-29,228.72,Hogar,Débito,Sur,Sí,Regular
+121,58,Otro,2020-04-30,433.47,Alimentos,Efectivo,Centro,Sí,Regular
+122,45,Femenino,2020-05-01,283.49,Electrónica,Débito,Norte,No,Ocasional
+123,24,Otro,2020-05-02,274.55,Electrónica,Débito,Centro,Sí,Frecuente
+124,26,Masculino,2020-05-03,26.75,Electrónica,Débito,Sur,No,Ocasional
+125,25,Masculino,2020-05-04,493.48,Hogar,Débito,Sur,Sí,Regular
+126,29,Femenino,2020-05-05,70.26,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+127,51,Femenino,2020-05-06,123.25,Alimentos,Efectivo,Centro,Sí,Regular
+128,50,Femenino,2020-05-07,35.33,Alimentos,Efectivo,Norte,Sí,Ocasional
+129,65,Masculino,2020-05-08,323.6,Hogar,Tarjeta de Crédito,Norte,Sí,Frecuente
+130,40,Otro,2020-05-09,120.1,Ropa,Débito,Sur,Sí,Regular
+131,41,Masculino,2020-05-10,98.21,Hogar,Tarjeta de Crédito,Centro,Sí,Regular
+132,54,Femenino,2020-05-11,53.39,Ropa,Débito,Centro,No,Regular
+133,52,Otro,2020-05-12,60.62,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+134,61,Otro,2020-05-13,296.49,Hogar,Efectivo,Centro,No,Frecuente
+135,57,Masculino,2020-05-14,347.22,Alimentos,Efectivo,Norte,No,Ocasional
+136,39,Femenino,2020-05-15,204.72,Electrónica,Efectivo,Norte,No,Ocasional
+137,44,Masculino,2020-05-16,245.15,Alimentos,Débito,Sur,Sí,Ocasional
+138,52,Otro,2020-05-17,346.12,Electrónica,Débito,Norte,Sí,Frecuente
+139,18,Masculino,2020-05-18,18.52,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+140,52,Masculino,2020-05-19,168.33,Ropa,Tarjeta de Crédito,Sur,No,Ocasional
+141,54,Femenino,2020-05-20,486.82,Electrónica,Efectivo,Sur,Sí,Ocasional
+142,64,Femenino,2020-05-21,294.25,Ropa,Débito,Sur,Sí,Ocasional
+143,31,Otro,2020-05-22,134.57,Electrónica,Tarjeta de Crédito,Norte,No,Regular
+144,20,Masculino,2020-05-23,265.65,Alimentos,Débito,Norte,No,Ocasional
+145,18,Masculino,2020-05-24,177.9,Alimentos,Débito,Sur,No,Regular
+146,22,Masculino,2020-05-25,270.8,Electrónica,Efectivo,Sur,No,Ocasional
+147,43,Otro,2020-05-26,71.61,Ropa,Efectivo,Sur,No,Frecuente
+148,31,Otro,2020-05-27,75.03,Hogar,Débito,Norte,No,Regular
+149,56,Femenino,2020-05-28,80.34,Hogar,Débito,Norte,Sí,Regular
+150,44,Femenino,2020-05-29,470.51,Alimentos,Débito,Centro,No,Regular
+151,26,Femenino,2020-05-30,369.12,Hogar,Débito,Norte,Sí,Regular
+152,32,Masculino,2020-05-31,89.57,Alimentos,Efectivo,Norte,Sí,Frecuente
+153,32,Masculino,2020-06-01,102.29,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+154,43,Femenino,2020-06-02,368.11,Electrónica,Efectivo,Sur,No,Regular
+155,59,Masculino,2020-06-03,86.52,Alimentos,Tarjeta de Crédito,Norte,Sí,Frecuente
+156,30,Femenino,2020-06-04,124.94,Alimentos,Débito,Sur,No,Regular
+157,68,Otro,2020-06-05,482.04,Electrónica,Tarjeta de Crédito,Centro,No,Ocasional
+158,49,Femenino,2020-06-06,135.1,Alimentos,Efectivo,Centro,Sí,Regular
+159,56,Otro,2020-06-07,334.2,Hogar,Efectivo,Sur,No,Frecuente
+160,66,Masculino,2020-06-08,489.53,Hogar,Débito,Sur,Sí,Ocasional
+161,69,Femenino,2020-06-09,193.41,Alimentos,Efectivo,Sur,Sí,Frecuente
+162,49,Masculino,2020-06-10,18.58,Hogar,Débito,Norte,No,Ocasional
+163,21,Otro,2020-06-11,129.63,Ropa,Efectivo,Centro,Sí,Ocasional
+164,47,Otro,2020-06-12,417.13,Alimentos,Efectivo,Sur,Sí,Ocasional
+165,54,Otro,2020-06-13,433.66,Electrónica,Débito,Norte,Sí,Regular
+166,40,Masculino,2020-06-14,386.57,Ropa,Tarjeta de Crédito,Centro,No,Frecuente
+167,56,Masculino,2020-06-15,65.42,Alimentos,Efectivo,Norte,Sí,Frecuente
+168,62,Masculino,2020-06-16,399.8,Electrónica,Tarjeta de Crédito,Centro,No,Frecuente
+169,32,Masculino,2020-06-17,460.15,Hogar,Efectivo,Norte,No,Ocasional
+170,60,Otro,2020-06-18,304.3,Electrónica,Efectivo,Centro,Sí,Regular
+171,46,Otro,2020-06-19,471.03,Ropa,Efectivo,Centro,Sí,Ocasional
+172,53,Femenino,2020-06-20,415.15,Hogar,Efectivo,Norte,No,Frecuente
+173,30,Femenino,2020-06-21,336.82,Alimentos,Tarjeta de Crédito,Sur,No,Regular
+174,49,Masculino,2020-06-22,292.82,Hogar,Tarjeta de Crédito,Centro,Sí,Regular
+175,24,Otro,2020-06-23,180.8,Alimentos,Efectivo,Sur,Sí,Regular
+176,68,Otro,2020-06-24,88.05,Alimentos,Efectivo,Norte,No,Frecuente
+177,39,Otro,2020-06-25,306.43,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+178,45,Femenino,2020-06-26,165.87,Electrónica,Débito,Sur,No,Regular
+179,19,Femenino,2020-06-27,434.55,Electrónica,Débito,Sur,No,Ocasional
+180,59,Otro,2020-06-28,496.74,Ropa,Tarjeta de Crédito,Sur,No,Ocasional
+181,62,Otro,2020-06-29,378.69,Ropa,Efectivo,Sur,Sí,Regular
+182,23,Otro,2020-06-30,54.34,Electrónica,Efectivo,Centro,No,Regular
+183,45,Femenino,2020-07-01,151.46,Ropa,Débito,Centro,No,Ocasional
+184,45,Otro,2020-07-02,63.46,Hogar,Débito,Centro,Sí,Ocasional
+185,61,Otro,2020-07-03,328.75,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+186,61,Masculino,2020-07-04,384.94,Ropa,Débito,Sur,No,Frecuente
+187,37,Masculino,2020-07-05,463.58,Ropa,Tarjeta de Crédito,Centro,No,Frecuente
+188,47,Femenino,2020-07-06,224.7,Hogar,Débito,Norte,Sí,Ocasional
+189,28,Otro,2020-07-07,451.67,Alimentos,Débito,Centro,No,Regular
+190,45,Otro,2020-07-08,440.17,Hogar,Débito,Centro,No,Ocasional
+191,42,Masculino,2020-07-09,165.43,Hogar,Efectivo,Sur,Sí,Frecuente
+192,56,Femenino,2020-07-10,435.76,Ropa,Efectivo,Norte,No,Regular
+193,50,Masculino,2020-07-11,194.08,Hogar,Efectivo,Sur,Sí,Frecuente
+194,18,Masculino,2020-07-12,155.47,Ropa,Débito,Sur,Sí,Regular
+195,44,Masculino,2020-07-13,328.05,Ropa,Tarjeta de Crédito,Centro,Sí,Frecuente
+196,69,Masculino,2020-07-14,170.91,Electrónica,Tarjeta de Crédito,Sur,Sí,Regular
+197,30,Otro,2020-07-15,318.8,Hogar,Tarjeta de Crédito,Norte,No,Regular
+198,58,Otro,2020-07-16,308.82,Alimentos,Tarjeta de Crédito,Sur,Sí,Regular
+199,20,Masculino,2020-07-17,286.09,Electrónica,Efectivo,Sur,No,Regular
+200,56,Femenino,2020-07-18,196.41,Ropa,Efectivo,Sur,No,Frecuente
+201,23,Femenino,2020-07-19,278.76,Ropa,Débito,Centro,No,Frecuente
+202,25,Femenino,2020-07-20,302.28,Alimentos,Débito,Norte,No,Regular
+203,44,Femenino,2020-07-21,277.39,Ropa,Tarjeta de Crédito,Centro,No,Regular
+204,26,Masculino,2020-07-22,227.77,Hogar,Efectivo,Centro,Sí,Frecuente
+205,54,Otro,2020-07-23,17.19,Electrónica,Tarjeta de Crédito,Centro,Sí,Regular
+206,50,Femenino,2020-07-24,297.66,Ropa,Débito,Centro,Sí,Regular
+207,68,Masculino,2020-07-25,92.54,Ropa,Débito,Centro,Sí,Regular
+208,59,Femenino,2020-07-26,324.86,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+209,61,Femenino,2020-07-27,382.08,Hogar,Débito,Sur,Sí,Regular
+210,41,Masculino,2020-07-28,255.22,Ropa,Tarjeta de Crédito,Centro,No,Ocasional
+211,32,Otro,2020-07-29,275.76,Alimentos,Efectivo,Centro,No,Regular
+212,49,Otro,2020-07-30,476.22,Ropa,Tarjeta de Crédito,Norte,Sí,Frecuente
+213,49,Masculino,2020-07-31,425.11,Alimentos,Efectivo,Norte,Sí,Ocasional
+214,41,Otro,2020-08-01,457.98,Alimentos,Efectivo,Sur,Sí,Ocasional
+215,58,Masculino,2020-08-02,408.75,Hogar,Débito,Norte,Sí,Regular
+216,69,Masculino,2020-08-03,63.37,Ropa,Débito,Sur,No,Regular
+217,66,Masculino,2020-08-04,83.01,Hogar,Débito,Centro,No,Ocasional
+218,66,Otro,2020-08-05,268.05,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+219,69,Masculino,2020-08-06,130.57,Electrónica,Tarjeta de Crédito,Sur,No,Frecuente
+220,29,Femenino,2020-08-07,243.58,Ropa,Débito,Norte,No,Regular
+221,56,Otro,2020-08-08,203.24,Electrónica,Tarjeta de Crédito,Sur,No,Frecuente
+222,19,Otro,2020-08-09,279.21,Ropa,Débito,Norte,Sí,Frecuente
+223,20,Otro,2020-08-10,375.97,Hogar,Tarjeta de Crédito,Centro,No,Regular
+224,66,Otro,2020-08-11,360.59,Hogar,Efectivo,Norte,Sí,Frecuente
+225,54,Femenino,2020-08-12,265.4,Hogar,Efectivo,Sur,Sí,Regular
+226,66,Otro,2020-08-13,412.97,Hogar,Débito,Sur,No,Ocasional
+227,34,Otro,2020-08-14,221.12,Hogar,Tarjeta de Crédito,Centro,No,Regular
+228,66,Masculino,2020-08-15,449.39,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+229,19,Otro,2020-08-16,44.93,Hogar,Efectivo,Norte,No,Ocasional
+230,19,Femenino,2020-08-17,477.78,Alimentos,Efectivo,Norte,No,Frecuente
+231,45,Femenino,2020-08-18,330.8,Alimentos,Débito,Centro,Sí,Frecuente
+232,40,Femenino,2020-08-19,196.24,Electrónica,Efectivo,Norte,Sí,Frecuente
+233,54,Femenino,2020-08-20,106.61,Ropa,Débito,Sur,Sí,Regular
+234,49,Otro,2020-08-21,244.8,Alimentos,Efectivo,Norte,Sí,Frecuente
+235,50,Otro,2020-08-22,105.33,Ropa,Efectivo,Centro,No,Ocasional
+236,18,Femenino,2020-08-23,91.5,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+237,36,Femenino,2020-08-24,312.5,Ropa,Efectivo,Norte,Sí,Frecuente
+238,19,Otro,2020-08-25,266.31,Ropa,Efectivo,Sur,Sí,Regular
+239,61,Femenino,2020-08-26,338.35,Ropa,Débito,Norte,Sí,Regular
+240,43,Masculino,2020-08-27,465.51,Ropa,Efectivo,Sur,No,Ocasional
+241,49,Femenino,2020-08-28,270.81,Electrónica,Débito,Sur,Sí,Regular
+242,23,Femenino,2020-08-29,294.66,Alimentos,Efectivo,Centro,No,Frecuente
+243,49,Masculino,2020-08-30,53.92,Hogar,Efectivo,Sur,Sí,Regular
+244,21,Masculino,2020-08-31,361.64,Ropa,Débito,Sur,Sí,Ocasional
+245,28,Otro,2020-09-01,205.95,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+246,34,Otro,2020-09-02,488.6,Alimentos,Débito,Sur,No,Ocasional
+247,55,Masculino,2020-09-03,413.36,Electrónica,Débito,Centro,No,Regular
+248,41,Masculino,2020-09-04,266.02,Alimentos,Débito,Norte,No,Regular
+249,22,Otro,2020-09-05,70.38,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+250,69,Femenino,2020-09-06,431.11,Ropa,Efectivo,Sur,No,Frecuente
+251,51,Masculino,2020-09-07,401.89,Ropa,Débito,Centro,No,Regular
+252,23,Otro,2020-09-08,100.45,Hogar,Débito,Sur,Sí,Regular
+253,39,Femenino,2020-09-09,154.69,Hogar,Tarjeta de Crédito,Norte,Sí,Frecuente
+254,28,Masculino,2020-09-10,398.77,Hogar,Débito,Centro,No,Regular
+255,65,Femenino,2020-09-11,100.76,Alimentos,Efectivo,Norte,No,Ocasional
+256,33,Otro,2020-09-12,459.7,Ropa,Tarjeta de Crédito,Sur,No,Regular
+257,50,Masculino,2020-09-13,218.02,Electrónica,Efectivo,Sur,No,Regular
+258,26,Femenino,2020-09-14,52.65,Hogar,Efectivo,Norte,Sí,Frecuente
+259,23,Masculino,2020-09-15,409.72,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+260,33,Femenino,2020-09-16,193.02,Electrónica,Débito,Centro,Sí,Frecuente
+261,46,Otro,2020-09-17,267.98,Hogar,Efectivo,Sur,No,Regular
+262,20,Otro,2020-09-18,65.03,Ropa,Efectivo,Norte,No,Regular
+263,37,Masculino,2020-09-19,11.27,Hogar,Efectivo,Norte,Sí,Frecuente
+264,53,Femenino,2020-09-20,322.61,Electrónica,Efectivo,Centro,Sí,Frecuente
+265,36,Masculino,2020-09-21,262.44,Hogar,Tarjeta de Crédito,Centro,No,Frecuente
+266,43,Masculino,2020-09-22,300.83,Electrónica,Tarjeta de Crédito,Centro,No,Ocasional
+267,20,Femenino,2020-09-23,398.93,Electrónica,Efectivo,Norte,Sí,Regular
+268,36,Femenino,2020-09-24,326.84,Hogar,Débito,Centro,Sí,Frecuente
+269,37,Femenino,2020-09-25,95.64,Alimentos,Efectivo,Centro,Sí,Regular
+270,49,Otro,2020-09-26,186.78,Hogar,Débito,Sur,No,Ocasional
+271,24,Masculino,2020-09-27,453.89,Alimentos,Efectivo,Centro,No,Ocasional
+272,69,Masculino,2020-09-28,387.27,Electrónica,Débito,Centro,No,Ocasional
+273,58,Otro,2020-09-29,282.75,Electrónica,Efectivo,Norte,No,Ocasional
+274,50,Femenino,2020-09-30,135.27,Alimentos,Débito,Norte,No,Regular
+275,57,Otro,2020-10-01,158.01,Electrónica,Efectivo,Sur,No,Ocasional
+276,56,Otro,2020-10-02,368.66,Alimentos,Efectivo,Centro,Sí,Ocasional
+277,35,Otro,2020-10-03,427.08,Alimentos,Débito,Sur,Sí,Frecuente
+278,57,Masculino,2020-10-04,339.0,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+279,18,Otro,2020-10-05,406.67,Ropa,Débito,Sur,Sí,Frecuente
+280,28,Masculino,2020-10-06,385.66,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+281,45,Masculino,2020-10-07,83.35,Hogar,Efectivo,Sur,Sí,Ocasional
+282,42,Masculino,2020-10-08,217.73,Hogar,Débito,Sur,No,Frecuente
+283,67,Femenino,2020-10-09,84.96,Electrónica,Débito,Centro,Sí,Ocasional
+284,40,Masculino,2020-10-10,125.27,Ropa,Débito,Sur,Sí,Regular
+285,48,Masculino,2020-10-11,435.94,Electrónica,Tarjeta de Crédito,Centro,No,Regular
+286,47,Femenino,2020-10-12,241.72,Ropa,Tarjeta de Crédito,Centro,No,Ocasional
+287,59,Masculino,2020-10-13,272.33,Alimentos,Efectivo,Centro,Sí,Regular
+288,52,Otro,2020-10-14,97.44,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+289,24,Otro,2020-10-15,163.01,Alimentos,Tarjeta de Crédito,Sur,No,Ocasional
+290,33,Masculino,2020-10-16,122.82,Alimentos,Efectivo,Norte,Sí,Ocasional
+291,43,Femenino,2020-10-17,111.03,Hogar,Débito,Norte,No,Frecuente
+292,65,Otro,2020-10-18,322.6,Hogar,Débito,Norte,No,Frecuente
+293,69,Femenino,2020-10-19,135.87,Electrónica,Efectivo,Sur,Sí,Frecuente
+294,66,Femenino,2020-10-20,319.69,Ropa,Débito,Centro,No,Ocasional
+295,19,Otro,2020-10-21,38.64,Alimentos,Tarjeta de Crédito,Norte,Sí,Frecuente
+296,18,Femenino,2020-10-22,79.47,Alimentos,Efectivo,Sur,Sí,Frecuente
+297,65,Otro,2020-10-23,144.52,Ropa,Efectivo,Centro,No,Regular
+298,29,Femenino,2020-10-24,302.55,Ropa,Efectivo,Norte,Sí,Regular
+299,22,Otro,2020-10-25,341.16,Electrónica,Débito,Centro,No,Ocasional
+300,54,Masculino,2020-10-26,226.93,Ropa,Efectivo,Norte,No,Regular
+301,49,Otro,2020-10-27,228.44,Alimentos,Efectivo,Norte,No,Regular
+302,26,Otro,2020-10-28,365.01,Alimentos,Efectivo,Norte,Sí,Frecuente
+303,58,Otro,2020-10-29,17.75,Alimentos,Débito,Centro,No,Frecuente
+304,52,Otro,2020-10-30,177.13,Alimentos,Tarjeta de Crédito,Sur,Sí,Regular
+305,36,Femenino,2020-10-31,411.17,Alimentos,Efectivo,Centro,No,Regular
+306,65,Masculino,2020-11-01,305.58,Electrónica,Tarjeta de Crédito,Norte,No,Regular
+307,33,Otro,2020-11-02,175.24,Alimentos,Débito,Centro,No,Ocasional
+308,20,Femenino,2020-11-03,453.71,Electrónica,Débito,Sur,Sí,Ocasional
+309,37,Masculino,2020-11-04,388.59,Alimentos,Débito,Centro,Sí,Ocasional
+310,41,Masculino,2020-11-05,139.8,Hogar,Débito,Sur,No,Regular
+311,50,Masculino,2020-11-06,326.19,Hogar,Tarjeta de Crédito,Sur,No,Regular
+312,41,Masculino,2020-11-07,301.92,Hogar,Efectivo,Centro,Sí,Ocasional
+313,69,Otro,2020-11-08,206.58,Hogar,Débito,Norte,Sí,Ocasional
+314,28,Otro,2020-11-09,189.81,Electrónica,Débito,Sur,Sí,Regular
+315,66,Femenino,2020-11-10,178.34,Electrónica,Tarjeta de Crédito,Centro,No,Frecuente
+316,25,Femenino,2020-11-11,312.41,Ropa,Tarjeta de Crédito,Sur,Sí,Ocasional
+317,53,Femenino,2020-11-12,226.78,Alimentos,Débito,Norte,No,Regular
+318,55,Masculino,2020-11-13,417.61,Hogar,Efectivo,Centro,Sí,Regular
+319,57,Masculino,2020-11-14,338.11,Electrónica,Efectivo,Centro,No,Frecuente
+320,37,Otro,2020-11-15,44.27,Alimentos,Débito,Centro,No,Regular
+321,52,Masculino,2020-11-16,323.68,Alimentos,Tarjeta de Crédito,Norte,No,Regular
+322,65,Masculino,2020-11-17,142.86,Electrónica,Débito,Sur,Sí,Ocasional
+323,42,Masculino,2020-11-18,300.48,Hogar,Débito,Centro,Sí,Ocasional
+324,52,Femenino,2020-11-19,343.26,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+325,42,Femenino,2020-11-20,123.11,Alimentos,Débito,Sur,No,Frecuente
+326,46,Otro,2020-11-21,233.86,Ropa,Débito,Norte,No,Regular
+327,35,Masculino,2020-11-22,103.26,Hogar,Débito,Centro,Sí,Ocasional
+328,63,Masculino,2020-11-23,35.65,Hogar,Tarjeta de Crédito,Sur,No,Frecuente
+329,35,Otro,2020-11-24,195.45,Ropa,Efectivo,Centro,No,Frecuente
+330,19,Masculino,2020-11-25,187.84,Hogar,Efectivo,Centro,No,Frecuente
+331,52,Masculino,2020-11-26,497.79,Alimentos,Tarjeta de Crédito,Norte,Sí,Regular
+332,33,Femenino,2020-11-27,228.71,Ropa,Efectivo,Centro,No,Ocasional
+333,58,Otro,2020-11-28,173.45,Hogar,Débito,Centro,Sí,Frecuente
+334,53,Otro,2020-11-29,294.43,Ropa,Efectivo,Sur,Sí,Ocasional
+335,50,Otro,2020-11-30,53.5,Alimentos,Débito,Norte,Sí,Frecuente
+336,21,Otro,2020-12-01,481.22,Hogar,Efectivo,Centro,Sí,Frecuente
+337,50,Femenino,2020-12-02,321.13,Alimentos,Tarjeta de Crédito,Sur,Sí,Ocasional
+338,31,Femenino,2020-12-03,379.87,Hogar,Efectivo,Norte,No,Ocasional
+339,38,Masculino,2020-12-04,93.53,Electrónica,Efectivo,Norte,Sí,Ocasional
+340,65,Masculino,2020-12-05,210.64,Hogar,Efectivo,Sur,Sí,Regular
+341,37,Masculino,2020-12-06,217.12,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+342,25,Masculino,2020-12-07,412.69,Hogar,Efectivo,Sur,No,Regular
+343,24,Femenino,2020-12-08,10.61,Alimentos,Tarjeta de Crédito,Sur,No,Ocasional
+344,20,Otro,2020-12-09,157.42,Alimentos,Débito,Sur,No,Frecuente
+345,34,Femenino,2020-12-10,490.81,Hogar,Efectivo,Centro,No,Regular
+346,50,Masculino,2020-12-11,242.69,Ropa,Tarjeta de Crédito,Centro,Sí,Frecuente
+347,65,Femenino,2020-12-12,197.44,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+348,29,Otro,2020-12-13,68.72,Ropa,Efectivo,Centro,No,Ocasional
+349,68,Otro,2020-12-14,487.34,Electrónica,Débito,Centro,No,Regular
+350,39,Femenino,2020-12-15,19.81,Alimentos,Tarjeta de Crédito,Centro,No,Frecuente
+351,39,Femenino,2020-12-16,371.22,Ropa,Efectivo,Sur,No,Frecuente
+352,63,Femenino,2020-12-17,386.61,Electrónica,Débito,Norte,Sí,Frecuente
+353,47,Masculino,2020-12-18,129.39,Hogar,Tarjeta de Crédito,Norte,No,Frecuente
+354,55,Femenino,2020-12-19,339.06,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+355,55,Femenino,2020-12-20,55.54,Hogar,Débito,Norte,No,Regular
+356,62,Femenino,2020-12-21,135.95,Alimentos,Débito,Centro,No,Ocasional
+357,68,Otro,2020-12-22,396.07,Ropa,Efectivo,Centro,No,Ocasional
+358,25,Otro,2020-12-23,433.7,Ropa,Efectivo,Sur,No,Ocasional
+359,44,Masculino,2020-12-24,308.16,Alimentos,Tarjeta de Crédito,Norte,No,Frecuente
+360,44,Masculino,2020-12-25,258.35,Alimentos,Débito,Centro,Sí,Frecuente
+361,51,Otro,2020-12-26,88.06,Alimentos,Débito,Centro,Sí,Frecuente
+362,38,Otro,2020-12-27,40.92,Ropa,Débito,Sur,Sí,Regular
+363,47,Otro,2020-12-28,67.65,Electrónica,Tarjeta de Crédito,Sur,Sí,Frecuente
+364,50,Femenino,2020-12-29,121.41,Hogar,Débito,Sur,Sí,Regular
+365,45,Femenino,2020-12-30,177.42,Hogar,Débito,Centro,Sí,Frecuente
+366,64,Otro,2020-12-31,196.65,Ropa,Tarjeta de Crédito,Centro,No,Frecuente
+367,50,Femenino,2021-01-01,179.7,Hogar,Efectivo,Sur,No,Ocasional
+368,22,Femenino,2021-01-02,127.14,Alimentos,Efectivo,Norte,Sí,Ocasional
+369,65,Masculino,2021-01-03,259.76,Electrónica,Tarjeta de Crédito,Sur,No,Ocasional
+370,36,Otro,2021-01-04,414.39,Hogar,Débito,Sur,Sí,Regular
+371,21,Otro,2021-01-05,147.05,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+372,52,Femenino,2021-01-06,471.77,Alimentos,Efectivo,Sur,No,Frecuente
+373,66,Otro,2021-01-07,437.93,Hogar,Efectivo,Centro,No,Regular
+374,34,Masculino,2021-01-08,89.26,Ropa,Tarjeta de Crédito,Norte,No,Frecuente
+375,61,Masculino,2021-01-09,395.28,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+376,45,Masculino,2021-01-10,291.55,Alimentos,Efectivo,Norte,No,Regular
+377,47,Otro,2021-01-11,287.62,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+378,46,Otro,2021-01-12,201.61,Hogar,Efectivo,Norte,Sí,Ocasional
+379,63,Otro,2021-01-13,255.56,Hogar,Tarjeta de Crédito,Sur,No,Regular
+380,23,Otro,2021-01-14,204.62,Ropa,Tarjeta de Crédito,Centro,Sí,Ocasional
+381,52,Otro,2021-01-15,274.47,Alimentos,Tarjeta de Crédito,Sur,No,Ocasional
+382,58,Masculino,2021-01-16,317.7,Alimentos,Efectivo,Norte,Sí,Regular
+383,54,Femenino,2021-01-17,340.41,Ropa,Tarjeta de Crédito,Norte,No,Frecuente
+384,41,Masculino,2021-01-18,270.92,Ropa,Efectivo,Centro,Sí,Frecuente
+385,46,Otro,2021-01-19,363.5,Alimentos,Efectivo,Sur,No,Frecuente
+386,66,Masculino,2021-01-20,79.23,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+387,63,Otro,2021-01-21,113.87,Electrónica,Tarjeta de Crédito,Centro,No,Frecuente
+388,48,Otro,2021-01-22,411.18,Ropa,Efectivo,Norte,Sí,Ocasional
+389,52,Masculino,2021-01-23,168.04,Electrónica,Efectivo,Centro,No,Frecuente
+390,50,Otro,2021-01-24,21.22,Alimentos,Débito,Centro,No,Regular
+391,69,Femenino,2021-01-25,85.36,Hogar,Efectivo,Sur,No,Frecuente
+392,38,Otro,2021-01-26,119.57,Hogar,Débito,Norte,Sí,Ocasional
+393,49,Femenino,2021-01-27,479.09,Electrónica,Débito,Sur,Sí,Regular
+394,40,Femenino,2021-01-28,290.79,Ropa,Débito,Norte,Sí,Frecuente
+395,50,Otro,2021-01-29,467.04,Ropa,Tarjeta de Crédito,Sur,No,Regular
+396,20,Masculino,2021-01-30,291.83,Ropa,Tarjeta de Crédito,Norte,Sí,Regular
+397,35,Femenino,2021-01-31,244.88,Ropa,Efectivo,Sur,No,Regular
+398,42,Masculino,2021-02-01,163.73,Ropa,Débito,Centro,Sí,Frecuente
+399,59,Femenino,2021-02-02,307.12,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+400,48,Otro,2021-02-03,78.21,Hogar,Tarjeta de Crédito,Norte,Sí,Frecuente
+401,20,Otro,2021-02-04,450.15,Hogar,Tarjeta de Crédito,Centro,Sí,Ocasional
+402,57,Femenino,2021-02-05,416.37,Electrónica,Tarjeta de Crédito,Sur,No,Frecuente
+403,63,Otro,2021-02-06,165.59,Ropa,Tarjeta de Crédito,Norte,Sí,Ocasional
+404,41,Femenino,2021-02-07,476.87,Electrónica,Débito,Norte,Sí,Frecuente
+405,67,Otro,2021-02-08,414.35,Hogar,Débito,Sur,No,Regular
+406,49,Masculino,2021-02-09,336.49,Alimentos,Débito,Centro,No,Frecuente
+407,64,Otro,2021-02-10,69.66,Electrónica,Débito,Sur,Sí,Regular
+408,39,Masculino,2021-02-11,244.33,Ropa,Efectivo,Sur,Sí,Ocasional
+409,40,Otro,2021-02-12,257.99,Hogar,Débito,Sur,No,Frecuente
+410,19,Masculino,2021-02-13,123.95,Hogar,Tarjeta de Crédito,Norte,No,Regular
+411,44,Otro,2021-02-14,49.18,Hogar,Débito,Centro,No,Ocasional
+412,59,Masculino,2021-02-15,390.59,Hogar,Efectivo,Centro,Sí,Ocasional
+413,19,Femenino,2021-02-16,69.8,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+414,43,Femenino,2021-02-17,301.2,Alimentos,Débito,Norte,Sí,Ocasional
+415,34,Masculino,2021-02-18,468.86,Hogar,Débito,Sur,No,Regular
+416,57,Otro,2021-02-19,439.29,Electrónica,Débito,Norte,No,Ocasional
+417,50,Masculino,2021-02-20,146.1,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+418,26,Otro,2021-02-21,427.21,Hogar,Tarjeta de Crédito,Norte,Sí,Regular
+419,60,Femenino,2021-02-22,10.16,Alimentos,Efectivo,Norte,No,Ocasional
+420,65,Otro,2021-02-23,18.67,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+421,56,Femenino,2021-02-24,305.25,Hogar,Tarjeta de Crédito,Norte,No,Ocasional
+422,46,Otro,2021-02-25,188.75,Electrónica,Débito,Norte,Sí,Ocasional
+423,59,Otro,2021-02-26,199.37,Ropa,Tarjeta de Crédito,Sur,Sí,Regular
+424,43,Otro,2021-02-27,286.58,Hogar,Débito,Sur,No,Ocasional
+425,52,Masculino,2021-02-28,103.97,Hogar,Débito,Centro,Sí,Regular
+426,67,Masculino,2021-03-01,113.76,Hogar,Tarjeta de Crédito,Sur,No,Ocasional
+427,42,Femenino,2021-03-02,247.45,Hogar,Efectivo,Norte,Sí,Ocasional
+428,41,Femenino,2021-03-03,379.58,Ropa,Efectivo,Sur,No,Ocasional
+429,30,Masculino,2021-03-04,313.55,Hogar,Tarjeta de Crédito,Centro,No,Ocasional
+430,24,Femenino,2021-03-05,155.7,Alimentos,Efectivo,Sur,Sí,Regular
+431,53,Masculino,2021-03-06,220.87,Hogar,Débito,Sur,No,Regular
+432,62,Otro,2021-03-07,93.63,Ropa,Débito,Centro,Sí,Regular
+433,37,Femenino,2021-03-08,46.57,Hogar,Tarjeta de Crédito,Centro,No,Frecuente
+434,18,Femenino,2021-03-09,393.52,Alimentos,Efectivo,Norte,No,Ocasional
+435,25,Masculino,2021-03-10,140.04,Ropa,Efectivo,Sur,No,Ocasional
+436,63,Femenino,2021-03-11,97.11,Ropa,Débito,Norte,No,Regular
+437,33,Femenino,2021-03-12,348.89,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+438,31,Otro,2021-03-13,312.85,Alimentos,Efectivo,Sur,No,Ocasional
+439,29,Femenino,2021-03-14,320.26,Alimentos,Tarjeta de Crédito,Norte,No,Regular
+440,68,Otro,2021-03-15,122.16,Alimentos,Efectivo,Sur,Sí,Ocasional
+441,40,Masculino,2021-03-16,124.0,Alimentos,Débito,Sur,Sí,Ocasional
+442,32,Femenino,2021-03-17,118.19,Ropa,Débito,Sur,Sí,Regular
+443,45,Otro,2021-03-18,95.14,Ropa,Tarjeta de Crédito,Centro,Sí,Regular
+444,51,Masculino,2021-03-19,331.3,Hogar,Débito,Norte,Sí,Ocasional
+445,19,Femenino,2021-03-20,425.53,Hogar,Efectivo,Centro,Sí,Ocasional
+446,49,Masculino,2021-03-21,364.92,Electrónica,Débito,Norte,No,Regular
+447,40,Femenino,2021-03-22,398.13,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+448,39,Masculino,2021-03-23,208.35,Hogar,Tarjeta de Crédito,Sur,No,Ocasional
+449,68,Masculino,2021-03-24,330.5,Alimentos,Tarjeta de Crédito,Norte,Sí,Regular
+450,42,Otro,2021-03-25,183.58,Alimentos,Efectivo,Centro,No,Ocasional
+451,39,Masculino,2021-03-26,267.5,Hogar,Efectivo,Centro,No,Ocasional
+452,39,Femenino,2021-03-27,246.0,Electrónica,Efectivo,Centro,No,Frecuente
+453,66,Femenino,2021-03-28,96.67,Alimentos,Efectivo,Norte,Sí,Regular
+454,69,Otro,2021-03-29,199.67,Hogar,Efectivo,Centro,Sí,Frecuente
+455,59,Femenino,2021-03-30,482.27,Hogar,Débito,Norte,Sí,Frecuente
+456,23,Femenino,2021-03-31,131.8,Ropa,Efectivo,Centro,Sí,Frecuente
+457,32,Femenino,2021-04-01,75.56,Electrónica,Efectivo,Centro,No,Ocasional
+458,60,Masculino,2021-04-02,215.1,Ropa,Débito,Norte,Sí,Ocasional
+459,54,Masculino,2021-04-03,397.27,Electrónica,Efectivo,Centro,No,Frecuente
+460,50,Femenino,2021-04-04,295.25,Alimentos,Tarjeta de Crédito,Sur,No,Frecuente
+461,25,Otro,2021-04-05,343.68,Electrónica,Efectivo,Norte,Sí,Frecuente
+462,61,Masculino,2021-04-06,102.95,Hogar,Efectivo,Norte,Sí,Ocasional
+463,61,Otro,2021-04-07,313.28,Hogar,Tarjeta de Crédito,Norte,Sí,Frecuente
+464,22,Femenino,2021-04-08,168.52,Electrónica,Tarjeta de Crédito,Sur,No,Frecuente
+465,56,Femenino,2021-04-09,418.81,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+466,21,Masculino,2021-04-10,318.36,Electrónica,Tarjeta de Crédito,Centro,No,Regular
+467,23,Femenino,2021-04-11,107.44,Ropa,Efectivo,Centro,Sí,Ocasional
+468,62,Masculino,2021-04-12,41.66,Electrónica,Tarjeta de Crédito,Centro,No,Regular
+469,49,Femenino,2021-04-13,30.89,Alimentos,Tarjeta de Crédito,Norte,Sí,Regular
+470,69,Femenino,2021-04-14,191.99,Ropa,Débito,Centro,Sí,Regular
+471,47,Masculino,2021-04-15,140.27,Ropa,Tarjeta de Crédito,Norte,No,Ocasional
+472,64,Masculino,2021-04-16,326.58,Electrónica,Tarjeta de Crédito,Centro,Sí,Regular
+473,52,Masculino,2021-04-17,254.67,Alimentos,Débito,Sur,Sí,Ocasional
+474,57,Femenino,2021-04-18,140.35,Ropa,Débito,Sur,Sí,Frecuente
+475,69,Femenino,2021-04-19,83.13,Hogar,Efectivo,Sur,Sí,Regular
+476,33,Otro,2021-04-20,72.33,Ropa,Débito,Sur,Sí,Ocasional
+477,30,Masculino,2021-04-21,433.68,Electrónica,Efectivo,Norte,Sí,Regular
+478,67,Femenino,2021-04-22,129.3,Alimentos,Débito,Centro,Sí,Frecuente
+479,59,Femenino,2021-04-23,329.34,Electrónica,Débito,Sur,No,Ocasional
+480,47,Masculino,2021-04-24,407.24,Hogar,Efectivo,Norte,No,Ocasional
+481,36,Otro,2021-04-25,310.9,Hogar,Débito,Sur,Sí,Ocasional
+482,34,Masculino,2021-04-26,431.19,Hogar,Efectivo,Sur,Sí,Frecuente
+483,36,Otro,2021-04-27,202.27,Electrónica,Débito,Norte,Sí,Frecuente
+484,45,Femenino,2021-04-28,478.55,Ropa,Tarjeta de Crédito,Norte,No,Frecuente
+485,43,Otro,2021-04-29,75.24,Electrónica,Débito,Centro,No,Ocasional
+486,54,Femenino,2021-04-30,60.05,Alimentos,Efectivo,Centro,Sí,Frecuente
+487,43,Masculino,2021-05-01,332.76,Ropa,Débito,Sur,No,Regular
+488,40,Masculino,2021-05-02,471.99,Hogar,Efectivo,Sur,Sí,Frecuente
+489,26,Masculino,2021-05-03,406.35,Electrónica,Efectivo,Centro,Sí,Ocasional
+490,29,Otro,2021-05-04,47.44,Hogar,Tarjeta de Crédito,Centro,Sí,Regular
+491,18,Femenino,2021-05-05,146.89,Hogar,Tarjeta de Crédito,Norte,Sí,Frecuente
+492,18,Masculino,2021-05-06,465.86,Alimentos,Efectivo,Centro,No,Regular
+493,64,Masculino,2021-05-07,134.0,Ropa,Débito,Centro,No,Regular
+494,51,Femenino,2021-05-08,392.77,Alimentos,Efectivo,Sur,Sí,Ocasional
+495,49,Masculino,2021-05-09,414.31,Alimentos,Efectivo,Centro,No,Regular
+496,65,Femenino,2021-05-10,252.77,Alimentos,Débito,Sur,No,Regular
+497,42,Femenino,2021-05-11,199.31,Hogar,Débito,Centro,Sí,Ocasional
+498,57,Femenino,2021-05-12,230.56,Alimentos,Débito,Norte,No,Ocasional
+499,62,Femenino,2021-05-13,121.21,Alimentos,Débito,Centro,Sí,Ocasional
+500,18,Femenino,2021-05-14,445.8,Ropa,Efectivo,Centro,Sí,Regular
+501,33,Otro,2021-05-15,230.8,Ropa,Efectivo,Centro,Sí,Regular
+502,56,Masculino,2021-05-16,442.41,Alimentos,Tarjeta de Crédito,Sur,Sí,Regular
+503,22,Otro,2021-05-17,61.79,Ropa,Efectivo,Norte,No,Ocasional
+504,39,Masculino,2021-05-18,494.25,Ropa,Débito,Centro,Sí,Frecuente
+505,46,Otro,2021-05-19,227.2,Alimentos,Tarjeta de Crédito,Sur,No,Regular
+506,20,Femenino,2021-05-20,33.44,Hogar,Débito,Norte,Sí,Frecuente
+507,29,Masculino,2021-05-21,28.63,Alimentos,Efectivo,Sur,Sí,Ocasional
+508,43,Masculino,2021-05-22,375.64,Ropa,Tarjeta de Crédito,Sur,No,Regular
+509,33,Otro,2021-05-23,332.93,Hogar,Débito,Norte,Sí,Frecuente
+510,68,Otro,2021-05-24,403.04,Electrónica,Tarjeta de Crédito,Centro,No,Regular
+511,54,Masculino,2021-05-25,61.63,Hogar,Tarjeta de Crédito,Sur,No,Regular
+512,39,Otro,2021-05-26,27.43,Ropa,Efectivo,Sur,Sí,Regular
+513,46,Otro,2021-05-27,259.2,Hogar,Débito,Centro,Sí,Frecuente
+514,31,Otro,2021-05-28,199.92,Alimentos,Tarjeta de Crédito,Centro,Sí,Ocasional
+515,45,Femenino,2021-05-29,236.35,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+516,22,Femenino,2021-05-30,495.88,Electrónica,Débito,Norte,Sí,Ocasional
+517,64,Otro,2021-05-31,485.67,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+518,66,Otro,2021-06-01,471.73,Ropa,Tarjeta de Crédito,Centro,No,Frecuente
+519,47,Femenino,2021-06-02,394.08,Ropa,Tarjeta de Crédito,Sur,No,Frecuente
+520,63,Femenino,2021-06-03,183.87,Electrónica,Débito,Sur,Sí,Ocasional
+521,69,Masculino,2021-06-04,211.94,Hogar,Débito,Norte,No,Regular
+522,22,Masculino,2021-06-05,279.31,Electrónica,Débito,Centro,No,Frecuente
+523,29,Femenino,2021-06-06,416.96,Hogar,Débito,Sur,Sí,Regular
+524,33,Otro,2021-06-07,43.67,Hogar,Efectivo,Norte,Sí,Regular
+525,43,Otro,2021-06-08,217.91,Ropa,Tarjeta de Crédito,Sur,No,Regular
+526,43,Otro,2021-06-09,50.48,Hogar,Débito,Sur,Sí,Ocasional
+527,65,Otro,2021-06-10,262.18,Electrónica,Tarjeta de Crédito,Centro,No,Regular
+528,38,Masculino,2021-06-11,450.46,Ropa,Tarjeta de Crédito,Centro,Sí,Ocasional
+529,56,Femenino,2021-06-12,393.42,Alimentos,Efectivo,Sur,No,Ocasional
+530,53,Otro,2021-06-13,121.64,Alimentos,Débito,Norte,No,Regular
+531,50,Masculino,2021-06-14,488.24,Ropa,Débito,Centro,No,Regular
+532,47,Otro,2021-06-15,337.0,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+533,54,Femenino,2021-06-16,15.11,Alimentos,Débito,Centro,Sí,Regular
+534,40,Masculino,2021-06-17,135.15,Alimentos,Tarjeta de Crédito,Centro,Sí,Ocasional
+535,27,Femenino,2021-06-18,137.75,Hogar,Tarjeta de Crédito,Centro,No,Regular
+536,22,Femenino,2021-06-19,43.93,Hogar,Efectivo,Sur,No,Regular
+537,53,Masculino,2021-06-20,480.31,Electrónica,Efectivo,Norte,Sí,Ocasional
+538,51,Masculino,2021-06-21,244.35,Ropa,Efectivo,Norte,Sí,Frecuente
+539,69,Masculino,2021-06-22,448.95,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+540,48,Masculino,2021-06-23,167.89,Ropa,Débito,Centro,No,Ocasional
+541,27,Masculino,2021-06-24,71.36,Alimentos,Efectivo,Sur,No,Frecuente
+542,36,Masculino,2021-06-25,242.42,Hogar,Débito,Centro,No,Ocasional
+543,49,Masculino,2021-06-26,65.84,Electrónica,Efectivo,Norte,No,Regular
+544,18,Otro,2021-06-27,248.15,Electrónica,Efectivo,Norte,Sí,Regular
+545,22,Femenino,2021-06-28,460.95,Ropa,Tarjeta de Crédito,Sur,No,Frecuente
+546,62,Masculino,2021-06-29,265.18,Ropa,Efectivo,Centro,Sí,Regular
+547,21,Otro,2021-06-30,312.08,Electrónica,Efectivo,Norte,Sí,Frecuente
+548,33,Otro,2021-07-01,86.75,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+549,41,Otro,2021-07-02,31.43,Electrónica,Débito,Centro,No,Regular
+550,33,Femenino,2021-07-03,64.3,Electrónica,Efectivo,Centro,Sí,Regular
+551,19,Masculino,2021-07-04,303.28,Electrónica,Tarjeta de Crédito,Norte,Sí,Frecuente
+552,66,Otro,2021-07-05,56.56,Alimentos,Efectivo,Norte,Sí,Regular
+553,45,Femenino,2021-07-06,194.24,Ropa,Tarjeta de Crédito,Centro,Sí,Ocasional
+554,49,Femenino,2021-07-07,279.55,Hogar,Débito,Centro,No,Regular
+555,44,Femenino,2021-07-08,200.44,Hogar,Débito,Norte,No,Regular
+556,37,Otro,2021-07-09,90.21,Ropa,Tarjeta de Crédito,Centro,Sí,Ocasional
+557,41,Masculino,2021-07-10,144.16,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+558,29,Otro,2021-07-11,464.88,Hogar,Tarjeta de Crédito,Centro,No,Regular
+559,67,Otro,2021-07-12,341.23,Hogar,Débito,Norte,No,Frecuente
+560,52,Masculino,2021-07-13,253.06,Ropa,Efectivo,Sur,No,Regular
+561,50,Masculino,2021-07-14,16.23,Hogar,Débito,Norte,Sí,Regular
+562,50,Masculino,2021-07-15,496.28,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+563,68,Femenino,2021-07-16,339.01,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+564,60,Masculino,2021-07-17,165.29,Electrónica,Débito,Centro,Sí,Frecuente
+565,54,Otro,2021-07-18,440.84,Hogar,Tarjeta de Crédito,Sur,No,Frecuente
+566,29,Masculino,2021-07-19,136.63,Hogar,Débito,Norte,Sí,Regular
+567,20,Otro,2021-07-20,276.57,Electrónica,Tarjeta de Crédito,Centro,No,Frecuente
+568,18,Femenino,2021-07-21,321.67,Alimentos,Efectivo,Sur,Sí,Ocasional
+569,50,Otro,2021-07-22,118.32,Hogar,Efectivo,Centro,No,Frecuente
+570,57,Otro,2021-07-23,489.41,Alimentos,Tarjeta de Crédito,Centro,Sí,Ocasional
+571,27,Masculino,2021-07-24,376.61,Hogar,Débito,Sur,Sí,Frecuente
+572,60,Masculino,2021-07-25,283.33,Alimentos,Efectivo,Centro,No,Frecuente
+573,61,Otro,2021-07-26,98.49,Alimentos,Débito,Sur,No,Ocasional
+574,46,Masculino,2021-07-27,36.39,Alimentos,Tarjeta de Crédito,Norte,No,Frecuente
+575,30,Femenino,2021-07-28,166.83,Electrónica,Débito,Centro,No,Frecuente
+576,29,Femenino,2021-07-29,379.06,Alimentos,Efectivo,Norte,Sí,Frecuente
+577,48,Masculino,2021-07-30,141.97,Alimentos,Débito,Norte,No,Regular
+578,63,Femenino,2021-07-31,274.38,Alimentos,Débito,Centro,No,Ocasional
+579,19,Masculino,2021-08-01,366.69,Hogar,Tarjeta de Crédito,Sur,Sí,Frecuente
+580,68,Otro,2021-08-02,62.89,Alimentos,Tarjeta de Crédito,Centro,No,Ocasional
+581,67,Otro,2021-08-03,345.8,Hogar,Tarjeta de Crédito,Norte,No,Ocasional
+582,52,Femenino,2021-08-04,55.02,Alimentos,Efectivo,Norte,Sí,Ocasional
+583,40,Masculino,2021-08-05,482.91,Alimentos,Efectivo,Sur,No,Frecuente
+584,34,Masculino,2021-08-06,249.31,Electrónica,Tarjeta de Crédito,Centro,No,Frecuente
+585,43,Femenino,2021-08-07,83.83,Hogar,Tarjeta de Crédito,Norte,No,Ocasional
+586,25,Otro,2021-08-08,177.77,Alimentos,Efectivo,Norte,No,Regular
+587,46,Femenino,2021-08-09,212.57,Hogar,Efectivo,Norte,No,Ocasional
+588,43,Otro,2021-08-10,381.51,Hogar,Efectivo,Sur,No,Regular
+589,27,Masculino,2021-08-11,374.28,Ropa,Efectivo,Norte,Sí,Ocasional
+590,43,Otro,2021-08-12,309.85,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+591,51,Femenino,2021-08-13,61.91,Electrónica,Efectivo,Centro,Sí,Ocasional
+592,68,Masculino,2021-08-14,84.27,Electrónica,Tarjeta de Crédito,Centro,Sí,Frecuente
+593,58,Femenino,2021-08-15,55.94,Ropa,Débito,Norte,Sí,Regular
+594,24,Femenino,2021-08-16,292.81,Ropa,Débito,Norte,Sí,Regular
+595,21,Otro,2021-08-17,439.8,Electrónica,Efectivo,Centro,No,Ocasional
+596,67,Femenino,2021-08-18,222.56,Ropa,Débito,Sur,No,Frecuente
+597,62,Otro,2021-08-19,88.82,Ropa,Débito,Sur,No,Frecuente
+598,28,Masculino,2021-08-20,283.44,Ropa,Débito,Sur,Sí,Regular
+599,46,Otro,2021-08-21,407.76,Electrónica,Efectivo,Sur,No,Frecuente
+600,53,Masculino,2021-08-22,373.44,Electrónica,Efectivo,Sur,No,Regular
+601,42,Otro,2021-08-23,441.91,Electrónica,Débito,Sur,No,Regular
+602,38,Femenino,2021-08-24,146.17,Ropa,Tarjeta de Crédito,Sur,Sí,Regular
+603,53,Otro,2021-08-25,105.04,Electrónica,Débito,Sur,Sí,Frecuente
+604,27,Otro,2021-08-26,441.11,Ropa,Efectivo,Centro,No,Regular
+605,54,Masculino,2021-08-27,332.2,Alimentos,Efectivo,Sur,Sí,Regular
+606,26,Femenino,2021-08-28,162.36,Ropa,Efectivo,Sur,Sí,Ocasional
+607,41,Otro,2021-08-29,373.75,Hogar,Débito,Sur,No,Regular
+608,52,Femenino,2021-08-30,409.41,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+609,66,Otro,2021-08-31,311.34,Electrónica,Efectivo,Centro,Sí,Ocasional
+610,52,Otro,2021-09-01,347.06,Hogar,Efectivo,Centro,No,Ocasional
+611,65,Femenino,2021-09-02,193.88,Ropa,Débito,Centro,Sí,Frecuente
+612,53,Otro,2021-09-03,273.96,Alimentos,Tarjeta de Crédito,Sur,Sí,Regular
+613,35,Femenino,2021-09-04,266.84,Hogar,Débito,Sur,Sí,Frecuente
+614,66,Otro,2021-09-05,425.54,Hogar,Efectivo,Norte,Sí,Frecuente
+615,56,Masculino,2021-09-06,421.58,Ropa,Tarjeta de Crédito,Centro,Sí,Ocasional
+616,49,Femenino,2021-09-07,418.01,Electrónica,Tarjeta de Crédito,Sur,Sí,Frecuente
+617,41,Otro,2021-09-08,15.41,Ropa,Efectivo,Centro,Sí,Regular
+618,40,Otro,2021-09-09,377.28,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+619,49,Masculino,2021-09-10,381.75,Hogar,Tarjeta de Crédito,Norte,No,Regular
+620,54,Femenino,2021-09-11,342.41,Electrónica,Débito,Norte,No,Regular
+621,29,Otro,2021-09-12,380.57,Electrónica,Efectivo,Centro,No,Ocasional
+622,66,Masculino,2021-09-13,422.57,Electrónica,Efectivo,Sur,No,Regular
+623,30,Otro,2021-09-14,240.46,Ropa,Efectivo,Sur,Sí,Ocasional
+624,40,Femenino,2021-09-15,256.0,Electrónica,Efectivo,Norte,No,Regular
+625,42,Otro,2021-09-16,71.11,Hogar,Efectivo,Sur,No,Ocasional
+626,52,Otro,2021-09-17,198.83,Hogar,Tarjeta de Crédito,Norte,Sí,Frecuente
+627,58,Otro,2021-09-18,325.25,Alimentos,Débito,Centro,Sí,Regular
+628,47,Otro,2021-09-19,392.4,Ropa,Efectivo,Norte,Sí,Ocasional
+629,34,Masculino,2021-09-20,116.43,Alimentos,Débito,Centro,Sí,Regular
+630,66,Masculino,2021-09-21,77.53,Hogar,Débito,Norte,Sí,Regular
+631,37,Femenino,2021-09-22,334.89,Alimentos,Tarjeta de Crédito,Sur,No,Regular
+632,65,Masculino,2021-09-23,10.92,Hogar,Efectivo,Sur,Sí,Ocasional
+633,42,Masculino,2021-09-24,97.4,Alimentos,Tarjeta de Crédito,Norte,No,Frecuente
+634,39,Femenino,2021-09-25,24.24,Electrónica,Efectivo,Sur,No,Frecuente
+635,30,Masculino,2021-09-26,91.77,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+636,36,Masculino,2021-09-27,98.85,Electrónica,Débito,Sur,No,Ocasional
+637,66,Femenino,2021-09-28,199.96,Electrónica,Efectivo,Centro,No,Frecuente
+638,53,Femenino,2021-09-29,207.14,Ropa,Débito,Sur,Sí,Ocasional
+639,29,Femenino,2021-09-30,438.39,Electrónica,Débito,Centro,No,Regular
+640,58,Otro,2021-10-01,259.95,Electrónica,Tarjeta de Crédito,Norte,No,Regular
+641,36,Otro,2021-10-02,364.47,Alimentos,Efectivo,Sur,No,Frecuente
+642,29,Femenino,2021-10-03,61.03,Hogar,Débito,Sur,Sí,Ocasional
+643,26,Femenino,2021-10-04,120.46,Ropa,Tarjeta de Crédito,Sur,Sí,Regular
+644,24,Femenino,2021-10-05,354.44,Electrónica,Efectivo,Norte,Sí,Ocasional
+645,45,Otro,2021-10-06,35.87,Ropa,Efectivo,Centro,No,Ocasional
+646,31,Otro,2021-10-07,248.43,Alimentos,Débito,Centro,Sí,Regular
+647,48,Masculino,2021-10-08,303.69,Electrónica,Efectivo,Sur,No,Ocasional
+648,69,Masculino,2021-10-09,305.05,Alimentos,Débito,Norte,Sí,Regular
+649,36,Femenino,2021-10-10,21.24,Ropa,Efectivo,Norte,No,Regular
+650,64,Otro,2021-10-11,167.83,Alimentos,Tarjeta de Crédito,Norte,Sí,Regular
+651,33,Otro,2021-10-12,321.88,Ropa,Débito,Norte,Sí,Ocasional
+652,22,Otro,2021-10-13,83.01,Alimentos,Débito,Norte,No,Regular
+653,52,Femenino,2021-10-14,350.75,Ropa,Efectivo,Centro,Sí,Ocasional
+654,29,Masculino,2021-10-15,375.5,Hogar,Efectivo,Centro,No,Regular
+655,42,Femenino,2021-10-16,491.16,Alimentos,Débito,Centro,Sí,Regular
+656,69,Masculino,2021-10-17,112.82,Alimentos,Efectivo,Sur,Sí,Frecuente
+657,38,Masculino,2021-10-18,414.31,Hogar,Tarjeta de Crédito,Norte,No,Frecuente
+658,53,Femenino,2021-10-19,264.95,Hogar,Efectivo,Sur,No,Frecuente
+659,40,Masculino,2021-10-20,193.0,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+660,33,Masculino,2021-10-21,69.96,Hogar,Tarjeta de Crédito,Centro,Sí,Ocasional
+661,56,Otro,2021-10-22,370.4,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+662,62,Masculino,2021-10-23,125.57,Ropa,Tarjeta de Crédito,Centro,Sí,Regular
+663,59,Femenino,2021-10-24,192.0,Ropa,Tarjeta de Crédito,Norte,No,Regular
+664,56,Femenino,2021-10-25,40.65,Ropa,Efectivo,Norte,No,Regular
+665,31,Masculino,2021-10-26,402.67,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+666,48,Otro,2021-10-27,385.63,Hogar,Efectivo,Centro,No,Regular
+667,22,Otro,2021-10-28,369.47,Hogar,Tarjeta de Crédito,Norte,No,Regular
+668,52,Masculino,2021-10-29,156.73,Alimentos,Débito,Centro,No,Frecuente
+669,40,Masculino,2021-10-30,95.01,Hogar,Tarjeta de Crédito,Sur,Sí,Regular
+670,46,Femenino,2021-10-31,322.4,Alimentos,Débito,Norte,No,Regular
+671,60,Masculino,2021-11-01,253.12,Electrónica,Tarjeta de Crédito,Norte,Sí,Regular
+672,28,Otro,2021-11-02,97.34,Ropa,Tarjeta de Crédito,Norte,No,Ocasional
+673,35,Masculino,2021-11-03,346.1,Ropa,Tarjeta de Crédito,Sur,No,Frecuente
+674,64,Femenino,2021-11-04,495.65,Ropa,Débito,Norte,No,Regular
+675,29,Femenino,2021-11-05,376.14,Hogar,Débito,Centro,Sí,Regular
+676,26,Femenino,2021-11-06,372.59,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+677,27,Femenino,2021-11-07,475.65,Alimentos,Efectivo,Norte,No,Regular
+678,61,Femenino,2021-11-08,109.44,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+679,34,Masculino,2021-11-09,287.12,Hogar,Débito,Sur,No,Regular
+680,55,Masculino,2021-11-10,490.03,Electrónica,Tarjeta de Crédito,Sur,No,Ocasional
+681,24,Masculino,2021-11-11,90.99,Alimentos,Débito,Sur,Sí,Ocasional
+682,63,Masculino,2021-11-12,353.12,Alimentos,Débito,Norte,Sí,Regular
+683,30,Femenino,2021-11-13,297.05,Ropa,Débito,Sur,Sí,Frecuente
+684,57,Otro,2021-11-14,297.37,Hogar,Tarjeta de Crédito,Sur,Sí,Ocasional
+685,59,Masculino,2021-11-15,351.86,Alimentos,Débito,Centro,No,Frecuente
+686,26,Otro,2021-11-16,465.51,Ropa,Débito,Sur,Sí,Regular
+687,67,Masculino,2021-11-17,393.47,Hogar,Tarjeta de Crédito,Centro,Sí,Ocasional
+688,44,Masculino,2021-11-18,37.51,Electrónica,Débito,Centro,No,Regular
+689,19,Otro,2021-11-19,427.84,Hogar,Tarjeta de Crédito,Sur,Sí,Frecuente
+690,22,Femenino,2021-11-20,120.52,Hogar,Débito,Centro,Sí,Regular
+691,46,Masculino,2021-11-21,194.69,Alimentos,Efectivo,Norte,Sí,Regular
+692,54,Masculino,2021-11-22,236.25,Alimentos,Efectivo,Norte,Sí,Ocasional
+693,55,Masculino,2021-11-23,245.64,Hogar,Débito,Sur,No,Regular
+694,36,Otro,2021-11-24,223.24,Alimentos,Efectivo,Norte,No,Regular
+695,25,Femenino,2021-11-25,469.3,Alimentos,Tarjeta de Crédito,Centro,Sí,Regular
+696,65,Otro,2021-11-26,355.95,Alimentos,Efectivo,Norte,Sí,Ocasional
+697,62,Otro,2021-11-27,319.27,Ropa,Débito,Sur,No,Frecuente
+698,18,Femenino,2021-11-28,34.42,Ropa,Débito,Sur,Sí,Frecuente
+699,39,Otro,2021-11-29,452.92,Hogar,Tarjeta de Crédito,Centro,Sí,Regular
+700,69,Femenino,2021-11-30,455.6,Alimentos,Débito,Sur,Sí,Ocasional
+701,34,Masculino,2021-12-01,392.3,Ropa,Tarjeta de Crédito,Norte,Sí,Regular
+702,24,Femenino,2021-12-02,13.44,Hogar,Efectivo,Sur,Sí,Frecuente
+703,42,Masculino,2021-12-03,38.07,Alimentos,Efectivo,Centro,Sí,Ocasional
+704,62,Otro,2021-12-04,120.36,Electrónica,Tarjeta de Crédito,Sur,Sí,Frecuente
+705,21,Otro,2021-12-05,74.36,Alimentos,Tarjeta de Crédito,Norte,Sí,Frecuente
+706,53,Masculino,2021-12-06,205.43,Alimentos,Débito,Centro,Sí,Ocasional
+707,23,Otro,2021-12-07,462.09,Ropa,Efectivo,Norte,No,Ocasional
+708,48,Femenino,2021-12-08,241.31,Hogar,Tarjeta de Crédito,Centro,No,Regular
+709,36,Masculino,2021-12-09,16.57,Hogar,Efectivo,Sur,No,Regular
+710,61,Otro,2021-12-10,148.55,Ropa,Tarjeta de Crédito,Centro,Sí,Frecuente
+711,56,Masculino,2021-12-11,31.85,Alimentos,Efectivo,Centro,Sí,Ocasional
+712,44,Femenino,2021-12-12,27.78,Electrónica,Débito,Sur,No,Ocasional
+713,27,Femenino,2021-12-13,145.1,Alimentos,Efectivo,Norte,Sí,Regular
+714,43,Otro,2021-12-14,145.05,Alimentos,Efectivo,Sur,No,Frecuente
+715,36,Femenino,2021-12-15,395.69,Electrónica,Efectivo,Centro,Sí,Frecuente
+716,56,Masculino,2021-12-16,487.67,Ropa,Efectivo,Sur,No,Regular
+717,20,Femenino,2021-12-17,191.89,Hogar,Efectivo,Centro,No,Ocasional
+718,62,Masculino,2021-12-18,220.15,Ropa,Débito,Sur,No,Regular
+719,30,Masculino,2021-12-19,423.95,Ropa,Tarjeta de Crédito,Sur,Sí,Regular
+720,67,Femenino,2021-12-20,141.39,Alimentos,Efectivo,Norte,No,Regular
+721,45,Otro,2021-12-21,86.63,Hogar,Débito,Centro,Sí,Regular
+722,37,Femenino,2021-12-22,428.01,Hogar,Efectivo,Norte,Sí,Ocasional
+723,45,Masculino,2021-12-23,32.79,Ropa,Efectivo,Centro,Sí,Regular
+724,25,Masculino,2021-12-24,313.65,Electrónica,Tarjeta de Crédito,Sur,Sí,Ocasional
+725,58,Femenino,2021-12-25,285.38,Ropa,Efectivo,Centro,Sí,Regular
+726,56,Otro,2021-12-26,179.5,Electrónica,Débito,Norte,Sí,Frecuente
+727,18,Otro,2021-12-27,164.44,Hogar,Débito,Norte,Sí,Ocasional
+728,20,Masculino,2021-12-28,388.21,Ropa,Tarjeta de Crédito,Norte,No,Frecuente
+729,30,Masculino,2021-12-29,52.35,Alimentos,Efectivo,Centro,No,Regular
+730,45,Otro,2021-12-30,126.02,Ropa,Débito,Norte,No,Regular
+731,66,Femenino,2021-12-31,368.9,Hogar,Efectivo,Norte,Sí,Regular
+732,42,Masculino,2022-01-01,278.68,Alimentos,Efectivo,Norte,Sí,Ocasional
+733,50,Masculino,2022-01-02,72.71,Alimentos,Efectivo,Sur,Sí,Frecuente
+734,55,Otro,2022-01-03,442.25,Electrónica,Tarjeta de Crédito,Sur,Sí,Ocasional
+735,23,Femenino,2022-01-04,202.79,Alimentos,Efectivo,Centro,No,Ocasional
+736,61,Otro,2022-01-05,415.66,Alimentos,Débito,Centro,Sí,Regular
+737,62,Femenino,2022-01-06,395.98,Ropa,Efectivo,Norte,No,Frecuente
+738,49,Femenino,2022-01-07,315.97,Hogar,Débito,Sur,Sí,Regular
+739,62,Femenino,2022-01-08,252.3,Electrónica,Efectivo,Norte,No,Ocasional
+740,64,Masculino,2022-01-09,489.98,Ropa,Débito,Norte,Sí,Regular
+741,38,Otro,2022-01-10,81.03,Alimentos,Débito,Sur,No,Frecuente
+742,33,Otro,2022-01-11,365.33,Alimentos,Efectivo,Sur,Sí,Regular
+743,38,Femenino,2022-01-12,103.68,Electrónica,Efectivo,Sur,No,Frecuente
+744,28,Masculino,2022-01-13,175.75,Hogar,Débito,Centro,Sí,Frecuente
+745,54,Masculino,2022-01-14,161.26,Electrónica,Tarjeta de Crédito,Centro,No,Regular
+746,53,Otro,2022-01-15,474.05,Ropa,Efectivo,Norte,No,Ocasional
+747,52,Masculino,2022-01-16,484.0,Electrónica,Tarjeta de Crédito,Centro,Sí,Regular
+748,36,Masculino,2022-01-17,99.68,Alimentos,Efectivo,Sur,No,Ocasional
+749,37,Femenino,2022-01-18,20.8,Ropa,Efectivo,Sur,Sí,Ocasional
+750,35,Masculino,2022-01-19,362.8,Alimentos,Efectivo,Centro,Sí,Regular
+751,64,Femenino,2022-01-20,214.82,Hogar,Efectivo,Norte,Sí,Ocasional
+752,58,Otro,2022-01-21,53.53,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+753,66,Masculino,2022-01-22,345.04,Alimentos,Efectivo,Centro,No,Regular
+754,31,Otro,2022-01-23,277.1,Electrónica,Débito,Norte,Sí,Regular
+755,32,Otro,2022-01-24,490.45,Alimentos,Débito,Norte,Sí,Regular
+756,48,Masculino,2022-01-25,121.43,Ropa,Tarjeta de Crédito,Norte,No,Ocasional
+757,18,Masculino,2022-01-26,207.95,Ropa,Efectivo,Sur,No,Frecuente
+758,20,Otro,2022-01-27,275.85,Hogar,Débito,Sur,No,Ocasional
+759,33,Masculino,2022-01-28,397.93,Ropa,Tarjeta de Crédito,Centro,Sí,Frecuente
+760,40,Femenino,2022-01-29,278.93,Electrónica,Efectivo,Sur,Sí,Regular
+761,28,Femenino,2022-01-30,310.32,Hogar,Débito,Norte,Sí,Frecuente
+762,29,Masculino,2022-01-31,120.81,Ropa,Débito,Sur,Sí,Regular
+763,27,Otro,2022-02-01,424.99,Electrónica,Tarjeta de Crédito,Centro,Sí,Regular
+764,49,Masculino,2022-02-02,220.03,Ropa,Efectivo,Sur,No,Frecuente
+765,33,Masculino,2022-02-03,79.07,Ropa,Efectivo,Norte,Sí,Regular
+766,25,Otro,2022-02-04,335.45,Alimentos,Débito,Norte,No,Frecuente
+767,55,Otro,2022-02-05,115.88,Ropa,Débito,Centro,No,Regular
+768,29,Femenino,2022-02-06,57.81,Ropa,Débito,Sur,Sí,Ocasional
+769,41,Otro,2022-02-07,432.37,Electrónica,Efectivo,Sur,No,Ocasional
+770,45,Femenino,2022-02-08,235.48,Electrónica,Tarjeta de Crédito,Sur,Sí,Regular
+771,25,Otro,2022-02-09,377.15,Alimentos,Tarjeta de Crédito,Norte,No,Regular
+772,45,Masculino,2022-02-10,152.39,Ropa,Efectivo,Centro,Sí,Frecuente
+773,53,Femenino,2022-02-11,395.62,Alimentos,Tarjeta de Crédito,Sur,Sí,Ocasional
+774,43,Femenino,2022-02-12,64.85,Ropa,Débito,Norte,No,Frecuente
+775,25,Femenino,2022-02-13,184.43,Hogar,Tarjeta de Crédito,Norte,Sí,Regular
+776,67,Masculino,2022-02-14,489.25,Hogar,Tarjeta de Crédito,Norte,No,Regular
+777,45,Masculino,2022-02-15,399.05,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+778,45,Masculino,2022-02-16,253.66,Alimentos,Débito,Sur,Sí,Regular
+779,54,Masculino,2022-02-17,176.49,Alimentos,Efectivo,Sur,Sí,Ocasional
+780,58,Masculino,2022-02-18,437.35,Electrónica,Débito,Sur,No,Frecuente
+781,53,Femenino,2022-02-19,276.98,Electrónica,Efectivo,Sur,No,Ocasional
+782,44,Masculino,2022-02-20,381.63,Electrónica,Efectivo,Sur,Sí,Ocasional
+783,34,Femenino,2022-02-21,379.51,Alimentos,Efectivo,Sur,No,Ocasional
+784,26,Masculino,2022-02-22,18.79,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+785,50,Otro,2022-02-23,71.86,Hogar,Tarjeta de Crédito,Sur,No,Regular
+786,37,Femenino,2022-02-24,333.22,Alimentos,Efectivo,Norte,No,Ocasional
+787,30,Otro,2022-02-25,89.19,Electrónica,Efectivo,Sur,Sí,Ocasional
+788,45,Femenino,2022-02-26,135.19,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+789,65,Otro,2022-02-27,473.85,Alimentos,Débito,Norte,Sí,Regular
+790,46,Masculino,2022-02-28,284.49,Alimentos,Efectivo,Sur,Sí,Regular
+791,30,Masculino,2022-03-01,377.86,Electrónica,Débito,Centro,Sí,Frecuente
+792,63,Masculino,2022-03-02,283.41,Ropa,Tarjeta de Crédito,Sur,No,Regular
+793,52,Femenino,2022-03-03,280.73,Electrónica,Efectivo,Centro,No,Frecuente
+794,23,Otro,2022-03-04,56.13,Electrónica,Débito,Centro,Sí,Frecuente
+795,35,Masculino,2022-03-05,178.39,Alimentos,Débito,Centro,Sí,Frecuente
+796,68,Otro,2022-03-06,148.39,Ropa,Débito,Centro,Sí,Frecuente
+797,22,Otro,2022-03-07,201.46,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+798,64,Masculino,2022-03-08,401.19,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+799,42,Masculino,2022-03-09,192.25,Hogar,Débito,Centro,Sí,Regular
+800,19,Otro,2022-03-10,231.33,Alimentos,Débito,Sur,No,Ocasional
+801,27,Masculino,2022-03-11,204.72,Hogar,Tarjeta de Crédito,Centro,No,Frecuente
+802,47,Masculino,2022-03-12,55.77,Hogar,Débito,Norte,No,Regular
+803,67,Masculino,2022-03-13,226.13,Electrónica,Débito,Sur,No,Ocasional
+804,62,Femenino,2022-03-14,105.85,Alimentos,Tarjeta de Crédito,Norte,Sí,Ocasional
+805,22,Otro,2022-03-15,101.49,Ropa,Débito,Norte,No,Frecuente
+806,50,Otro,2022-03-16,56.08,Electrónica,Débito,Sur,No,Ocasional
+807,18,Femenino,2022-03-17,184.77,Ropa,Débito,Centro,Sí,Ocasional
+808,35,Otro,2022-03-18,381.17,Ropa,Tarjeta de Crédito,Centro,Sí,Ocasional
+809,49,Masculino,2022-03-19,145.46,Alimentos,Débito,Centro,Sí,Ocasional
+810,64,Otro,2022-03-20,163.05,Hogar,Tarjeta de Crédito,Centro,No,Ocasional
+811,66,Masculino,2022-03-21,324.91,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+812,28,Femenino,2022-03-22,105.96,Ropa,Efectivo,Sur,No,Frecuente
+813,38,Masculino,2022-03-23,449.51,Electrónica,Efectivo,Sur,No,Ocasional
+814,43,Otro,2022-03-24,264.89,Ropa,Débito,Norte,No,Frecuente
+815,42,Otro,2022-03-25,229.33,Electrónica,Tarjeta de Crédito,Sur,Sí,Frecuente
+816,39,Otro,2022-03-26,283.33,Electrónica,Efectivo,Centro,No,Regular
+817,44,Femenino,2022-03-27,91.36,Alimentos,Débito,Norte,Sí,Ocasional
+818,66,Femenino,2022-03-28,310.6,Ropa,Efectivo,Centro,Sí,Frecuente
+819,30,Otro,2022-03-29,187.92,Hogar,Efectivo,Centro,Sí,Frecuente
+820,50,Masculino,2022-03-30,449.62,Ropa,Tarjeta de Crédito,Sur,No,Ocasional
+821,51,Femenino,2022-03-31,92.74,Ropa,Tarjeta de Crédito,Sur,No,Regular
+822,58,Otro,2022-04-01,258.46,Hogar,Efectivo,Centro,No,Ocasional
+823,52,Otro,2022-04-02,303.08,Alimentos,Efectivo,Centro,Sí,Regular
+824,18,Femenino,2022-04-03,26.36,Ropa,Tarjeta de Crédito,Norte,No,Ocasional
+825,38,Femenino,2022-04-04,188.21,Ropa,Débito,Sur,No,Ocasional
+826,65,Femenino,2022-04-05,368.99,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+827,23,Masculino,2022-04-06,411.98,Ropa,Efectivo,Norte,No,Ocasional
+828,45,Masculino,2022-04-07,163.45,Hogar,Débito,Norte,No,Regular
+829,34,Otro,2022-04-08,401.31,Electrónica,Efectivo,Centro,Sí,Regular
+830,22,Femenino,2022-04-09,484.2,Alimentos,Débito,Norte,Sí,Frecuente
+831,48,Masculino,2022-04-10,429.87,Electrónica,Efectivo,Norte,Sí,Ocasional
+832,22,Femenino,2022-04-11,67.65,Hogar,Débito,Centro,Sí,Regular
+833,55,Otro,2022-04-12,372.47,Hogar,Débito,Sur,No,Regular
+834,20,Masculino,2022-04-13,166.64,Electrónica,Efectivo,Sur,Sí,Regular
+835,40,Masculino,2022-04-14,494.32,Alimentos,Débito,Norte,No,Ocasional
+836,54,Masculino,2022-04-15,247.83,Electrónica,Tarjeta de Crédito,Centro,Sí,Frecuente
+837,54,Otro,2022-04-16,69.99,Alimentos,Efectivo,Sur,Sí,Regular
+838,27,Femenino,2022-04-17,365.34,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+839,27,Masculino,2022-04-18,168.28,Hogar,Efectivo,Norte,No,Regular
+840,36,Otro,2022-04-19,498.57,Ropa,Débito,Centro,No,Regular
+841,34,Femenino,2022-04-20,490.09,Ropa,Débito,Norte,Sí,Frecuente
+842,38,Otro,2022-04-21,331.51,Alimentos,Débito,Sur,No,Regular
+843,31,Femenino,2022-04-22,73.61,Alimentos,Efectivo,Centro,Sí,Regular
+844,26,Otro,2022-04-23,346.56,Alimentos,Tarjeta de Crédito,Sur,Sí,Ocasional
+845,63,Femenino,2022-04-24,55.58,Hogar,Tarjeta de Crédito,Sur,Sí,Ocasional
+846,18,Masculino,2022-04-25,24.39,Electrónica,Efectivo,Sur,No,Frecuente
+847,68,Femenino,2022-04-26,413.25,Hogar,Efectivo,Norte,Sí,Ocasional
+848,62,Otro,2022-04-27,112.78,Ropa,Tarjeta de Crédito,Norte,Sí,Ocasional
+849,30,Otro,2022-04-28,195.72,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+850,21,Femenino,2022-04-29,486.99,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+851,18,Masculino,2022-04-30,175.05,Ropa,Tarjeta de Crédito,Centro,Sí,Frecuente
+852,66,Masculino,2022-05-01,155.28,Ropa,Efectivo,Centro,No,Ocasional
+853,57,Femenino,2022-05-02,459.92,Ropa,Efectivo,Norte,Sí,Frecuente
+854,49,Femenino,2022-05-03,64.27,Hogar,Débito,Norte,No,Regular
+855,51,Otro,2022-05-04,382.2,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+856,45,Masculino,2022-05-05,494.15,Ropa,Débito,Sur,Sí,Ocasional
+857,48,Femenino,2022-05-06,451.64,Alimentos,Efectivo,Norte,No,Ocasional
+858,25,Masculino,2022-05-07,329.32,Hogar,Efectivo,Sur,No,Frecuente
+859,56,Femenino,2022-05-08,163.89,Ropa,Débito,Centro,Sí,Regular
+860,43,Femenino,2022-05-09,134.62,Hogar,Tarjeta de Crédito,Norte,No,Frecuente
+861,51,Masculino,2022-05-10,411.44,Hogar,Tarjeta de Crédito,Norte,Sí,Regular
+862,20,Femenino,2022-05-11,441.11,Alimentos,Tarjeta de Crédito,Centro,Sí,Regular
+863,67,Femenino,2022-05-12,267.46,Ropa,Tarjeta de Crédito,Norte,Sí,Frecuente
+864,29,Otro,2022-05-13,129.73,Hogar,Débito,Centro,No,Regular
+865,18,Femenino,2022-05-14,65.34,Ropa,Débito,Norte,Sí,Ocasional
+866,61,Femenino,2022-05-15,52.72,Alimentos,Efectivo,Centro,No,Frecuente
+867,22,Femenino,2022-05-16,362.35,Hogar,Tarjeta de Crédito,Norte,Sí,Regular
+868,47,Otro,2022-05-17,215.86,Alimentos,Tarjeta de Crédito,Sur,No,Ocasional
+869,47,Masculino,2022-05-18,453.63,Ropa,Tarjeta de Crédito,Sur,No,Frecuente
+870,34,Otro,2022-05-19,372.44,Ropa,Débito,Sur,Sí,Ocasional
+871,65,Otro,2022-05-20,103.72,Alimentos,Tarjeta de Crédito,Norte,No,Ocasional
+872,64,Masculino,2022-05-21,310.75,Electrónica,Débito,Norte,Sí,Ocasional
+873,40,Otro,2022-05-22,223.4,Hogar,Tarjeta de Crédito,Sur,Sí,Regular
+874,32,Masculino,2022-05-23,292.85,Ropa,Tarjeta de Crédito,Sur,Sí,Frecuente
+875,54,Otro,2022-05-24,371.65,Ropa,Efectivo,Centro,Sí,Frecuente
+876,38,Masculino,2022-05-25,405.04,Hogar,Tarjeta de Crédito,Centro,Sí,Regular
+877,31,Femenino,2022-05-26,423.43,Alimentos,Tarjeta de Crédito,Centro,No,Frecuente
+878,19,Otro,2022-05-27,134.45,Alimentos,Efectivo,Sur,Sí,Ocasional
+879,28,Otro,2022-05-28,25.25,Alimentos,Débito,Sur,No,Frecuente
+880,68,Otro,2022-05-29,372.25,Electrónica,Débito,Sur,No,Regular
+881,56,Otro,2022-05-30,62.11,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+882,55,Femenino,2022-05-31,164.31,Ropa,Débito,Norte,No,Regular
+883,51,Otro,2022-06-01,11.87,Alimentos,Tarjeta de Crédito,Sur,Sí,Ocasional
+884,55,Femenino,2022-06-02,344.02,Hogar,Efectivo,Norte,No,Ocasional
+885,67,Femenino,2022-06-03,91.89,Ropa,Efectivo,Norte,No,Frecuente
+886,51,Femenino,2022-06-04,331.09,Hogar,Tarjeta de Crédito,Norte,No,Ocasional
+887,35,Femenino,2022-06-05,495.95,Ropa,Efectivo,Centro,Sí,Regular
+888,47,Masculino,2022-06-06,45.61,Electrónica,Efectivo,Norte,No,Frecuente
+889,32,Masculino,2022-06-07,47.77,Ropa,Tarjeta de Crédito,Sur,Sí,Regular
+890,44,Otro,2022-06-08,176.79,Electrónica,Tarjeta de Crédito,Centro,No,Ocasional
+891,68,Masculino,2022-06-09,434.53,Ropa,Efectivo,Sur,No,Regular
+892,51,Masculino,2022-06-10,115.61,Alimentos,Débito,Sur,No,Regular
+893,69,Otro,2022-06-11,186.59,Hogar,Débito,Centro,No,Ocasional
+894,55,Otro,2022-06-12,43.57,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+895,50,Otro,2022-06-13,383.95,Ropa,Tarjeta de Crédito,Sur,Sí,Regular
+896,41,Masculino,2022-06-14,210.07,Ropa,Débito,Centro,No,Ocasional
+897,32,Masculino,2022-06-15,382.03,Ropa,Efectivo,Sur,No,Frecuente
+898,47,Otro,2022-06-16,452.77,Electrónica,Débito,Norte,Sí,Frecuente
+899,59,Femenino,2022-06-17,124.05,Hogar,Débito,Sur,Sí,Frecuente
+900,68,Otro,2022-06-18,405.62,Hogar,Débito,Norte,Sí,Regular
+901,34,Femenino,2022-06-19,38.96,Ropa,Débito,Sur,Sí,Regular
+902,22,Femenino,2022-06-20,450.44,Ropa,Tarjeta de Crédito,Centro,No,Regular
+903,46,Otro,2022-06-21,328.88,Electrónica,Tarjeta de Crédito,Centro,No,Frecuente
+904,21,Otro,2022-06-22,438.37,Alimentos,Efectivo,Sur,Sí,Regular
+905,27,Otro,2022-06-23,10.09,Alimentos,Efectivo,Centro,Sí,Ocasional
+906,34,Masculino,2022-06-24,92.85,Hogar,Efectivo,Sur,Sí,Regular
+907,27,Femenino,2022-06-25,200.98,Electrónica,Efectivo,Centro,Sí,Regular
+908,34,Masculino,2022-06-26,195.96,Ropa,Débito,Norte,Sí,Frecuente
+909,37,Masculino,2022-06-27,121.1,Hogar,Tarjeta de Crédito,Sur,Sí,Regular
+910,41,Otro,2022-06-28,196.99,Electrónica,Tarjeta de Crédito,Norte,No,Ocasional
+911,22,Masculino,2022-06-29,73.14,Alimentos,Efectivo,Norte,No,Frecuente
+912,51,Otro,2022-06-30,212.25,Electrónica,Efectivo,Sur,No,Ocasional
+913,23,Femenino,2022-07-01,403.15,Alimentos,Débito,Norte,Sí,Frecuente
+914,19,Otro,2022-07-02,244.74,Electrónica,Débito,Sur,Sí,Frecuente
+915,30,Masculino,2022-07-03,18.82,Hogar,Efectivo,Norte,Sí,Regular
+916,60,Masculino,2022-07-04,216.51,Alimentos,Tarjeta de Crédito,Sur,No,Ocasional
+917,60,Otro,2022-07-05,23.32,Hogar,Tarjeta de Crédito,Sur,Sí,Frecuente
+918,65,Otro,2022-07-06,483.46,Hogar,Tarjeta de Crédito,Centro,Sí,Regular
+919,28,Masculino,2022-07-07,72.45,Alimentos,Efectivo,Sur,No,Frecuente
+920,68,Femenino,2022-07-08,356.77,Alimentos,Tarjeta de Crédito,Sur,Sí,Frecuente
+921,64,Femenino,2022-07-09,486.66,Ropa,Débito,Norte,No,Frecuente
+922,40,Otro,2022-07-10,414.76,Ropa,Débito,Sur,No,Frecuente
+923,33,Femenino,2022-07-11,352.66,Ropa,Efectivo,Centro,Sí,Frecuente
+924,48,Masculino,2022-07-12,421.34,Hogar,Débito,Norte,No,Frecuente
+925,28,Otro,2022-07-13,491.08,Hogar,Efectivo,Norte,Sí,Regular
+926,33,Masculino,2022-07-14,314.46,Ropa,Tarjeta de Crédito,Centro,No,Frecuente
+927,25,Masculino,2022-07-15,284.0,Hogar,Tarjeta de Crédito,Norte,Sí,Ocasional
+928,21,Femenino,2022-07-16,317.84,Hogar,Tarjeta de Crédito,Norte,No,Regular
+929,57,Otro,2022-07-17,271.01,Alimentos,Débito,Norte,Sí,Ocasional
+930,21,Otro,2022-07-18,321.19,Alimentos,Efectivo,Norte,No,Frecuente
+931,42,Femenino,2022-07-19,230.42,Hogar,Tarjeta de Crédito,Centro,No,Ocasional
+932,20,Masculino,2022-07-20,117.04,Ropa,Efectivo,Centro,No,Frecuente
+933,49,Masculino,2022-07-21,68.92,Electrónica,Tarjeta de Crédito,Norte,Sí,Frecuente
+934,20,Masculino,2022-07-22,43.49,Ropa,Débito,Norte,Sí,Regular
+935,44,Masculino,2022-07-23,139.02,Electrónica,Débito,Centro,No,Regular
+936,46,Otro,2022-07-24,32.6,Ropa,Efectivo,Centro,Sí,Frecuente
+937,49,Otro,2022-07-25,287.91,Alimentos,Débito,Centro,No,Regular
+938,67,Femenino,2022-07-26,149.08,Hogar,Débito,Norte,Sí,Ocasional
+939,68,Femenino,2022-07-27,414.02,Hogar,Efectivo,Norte,No,Regular
+940,36,Otro,2022-07-28,46.38,Alimentos,Tarjeta de Crédito,Sur,Sí,Regular
+941,38,Otro,2022-07-29,120.91,Electrónica,Débito,Centro,No,Ocasional
+942,22,Masculino,2022-07-30,367.82,Electrónica,Efectivo,Norte,No,Regular
+943,35,Masculino,2022-07-31,303.42,Electrónica,Débito,Centro,No,Frecuente
+944,45,Femenino,2022-08-01,41.6,Alimentos,Débito,Norte,No,Ocasional
+945,59,Otro,2022-08-02,439.85,Electrónica,Débito,Centro,Sí,Frecuente
+946,39,Femenino,2022-08-03,439.86,Alimentos,Débito,Norte,No,Ocasional
+947,38,Otro,2022-08-04,171.9,Ropa,Efectivo,Sur,Sí,Frecuente
+948,23,Masculino,2022-08-05,176.8,Ropa,Efectivo,Sur,Sí,Frecuente
+949,18,Femenino,2022-08-06,494.62,Alimentos,Efectivo,Centro,No,Regular
+950,22,Femenino,2022-08-07,316.83,Hogar,Débito,Norte,Sí,Frecuente
+951,58,Otro,2022-08-08,270.35,Ropa,Débito,Norte,Sí,Regular
+952,29,Masculino,2022-08-09,420.69,Electrónica,Débito,Centro,Sí,Ocasional
+953,43,Femenino,2022-08-10,149.79,Alimentos,Efectivo,Norte,No,Frecuente
+954,63,Masculino,2022-08-11,220.3,Electrónica,Débito,Centro,Sí,Frecuente
+955,51,Femenino,2022-08-12,141.21,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+956,66,Masculino,2022-08-13,396.69,Hogar,Débito,Centro,No,Ocasional
+957,31,Otro,2022-08-14,290.94,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+958,43,Femenino,2022-08-15,332.82,Hogar,Débito,Centro,Sí,Ocasional
+959,62,Femenino,2022-08-16,133.63,Ropa,Efectivo,Norte,No,Regular
+960,44,Masculino,2022-08-17,117.91,Alimentos,Débito,Sur,Sí,Ocasional
+961,26,Masculino,2022-08-18,249.3,Electrónica,Tarjeta de Crédito,Norte,Sí,Ocasional
+962,43,Femenino,2022-08-19,371.41,Alimentos,Tarjeta de Crédito,Centro,Sí,Frecuente
+963,64,Otro,2022-08-20,267.37,Electrónica,Débito,Sur,No,Regular
+964,39,Masculino,2022-08-21,26.0,Alimentos,Tarjeta de Crédito,Norte,Sí,Ocasional
+965,64,Masculino,2022-08-22,435.59,Electrónica,Tarjeta de Crédito,Sur,No,Regular
+966,47,Masculino,2022-08-23,41.7,Electrónica,Efectivo,Norte,No,Regular
+967,60,Femenino,2022-08-24,478.35,Electrónica,Débito,Sur,Sí,Regular
+968,65,Femenino,2022-08-25,22.32,Electrónica,Débito,Centro,No,Frecuente
+969,34,Femenino,2022-08-26,350.28,Electrónica,Débito,Norte,No,Ocasional
+970,43,Femenino,2022-08-27,50.28,Electrónica,Tarjeta de Crédito,Norte,No,Frecuente
+971,53,Otro,2022-08-28,456.23,Electrónica,Débito,Centro,No,Ocasional
+972,18,Otro,2022-08-29,237.57,Electrónica,Débito,Sur,No,Ocasional
+973,25,Femenino,2022-08-30,77.39,Electrónica,Efectivo,Centro,Sí,Frecuente
+974,66,Otro,2022-08-31,177.0,Alimentos,Efectivo,Centro,No,Regular
+975,52,Masculino,2022-09-01,90.76,Hogar,Efectivo,Sur,Sí,Regular
+976,69,Masculino,2022-09-02,93.59,Electrónica,Tarjeta de Crédito,Centro,Sí,Ocasional
+977,32,Masculino,2022-09-03,474.57,Hogar,Débito,Norte,Sí,Frecuente
+978,64,Femenino,2022-09-04,228.17,Electrónica,Efectivo,Norte,Sí,Regular
+979,39,Masculino,2022-09-05,396.51,Electrónica,Efectivo,Norte,Sí,Regular
+980,31,Otro,2022-09-06,323.41,Alimentos,Efectivo,Centro,Sí,Ocasional
+981,43,Femenino,2022-09-07,341.45,Ropa,Débito,Norte,No,Ocasional
+982,45,Otro,2022-09-08,74.53,Ropa,Débito,Norte,No,Frecuente
+983,40,Masculino,2022-09-09,124.75,Alimentos,Débito,Norte,No,Ocasional
+984,31,Masculino,2022-09-10,395.51,Hogar,Tarjeta de Crédito,Norte,Sí,Regular
+985,41,Masculino,2022-09-11,485.68,Ropa,Tarjeta de Crédito,Norte,No,Regular
+986,19,Femenino,2022-09-12,138.71,Alimentos,Efectivo,Norte,No,Regular
+987,62,Otro,2022-09-13,143.07,Alimentos,Débito,Centro,No,Regular
+988,43,Femenino,2022-09-14,241.72,Ropa,Efectivo,Norte,Sí,Frecuente
+989,31,Femenino,2022-09-15,492.08,Hogar,Débito,Norte,No,Frecuente
+990,68,Masculino,2022-09-16,141.79,Alimentos,Débito,Sur,Sí,Ocasional
+991,24,Femenino,2022-09-17,209.42,Electrónica,Débito,Centro,No,Ocasional
+992,20,Femenino,2022-09-18,446.83,Hogar,Tarjeta de Crédito,Centro,Sí,Ocasional
+993,64,Masculino,2022-09-19,11.43,Hogar,Tarjeta de Crédito,Centro,Sí,Frecuente
+994,40,Femenino,2022-09-20,29.49,Ropa,Débito,Centro,Sí,Regular
+995,63,Masculino,2022-09-21,306.0,Ropa,Efectivo,Norte,No,Ocasional
+996,60,Masculino,2022-09-22,454.62,Electrónica,Débito,Norte,No,Regular
+997,64,Masculino,2022-09-23,127.04,Alimentos,Débito,Sur,Sí,Ocasional
+998,62,Masculino,2022-09-24,240.12,Ropa,Efectivo,Sur,No,Ocasional
+999,35,Femenino,2022-09-25,230.73,Ropa,Débito,Centro,Sí,Ocasional
+1000,55,Masculino,2022-09-26,241.76,Hogar,Efectivo,Sur,Sí,Ocasional
